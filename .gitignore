@@ -145,3 +145,5 @@ media
 static
 
 *.swp
+
+.vscode
