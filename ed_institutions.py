@@ -18,5 +18,7 @@ def load_ed_institutions(ed_institutions_file: str,
                       .replace('$', '').str.replace(',', '').astype(float)
     df["capacity"] = df["capacity"].astype(str).str \
                      .replace(',', '').astype(int)
+    df["enrollment"] = df["enrollment"].astype(str).str \
+                     .replace(',', '').astype(int)
     df = df[(df["endowment"] > min_endowment) & (df["capacity"] > min_capacity)]
     return df
