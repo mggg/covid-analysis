@@ -1,0 +1,1128 @@
+county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,county_original_name,fake_county,active,confirmed,deaths
+Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,Snohomish,,y,480,10
+Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,Cook,,y,805,6
+Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,06059,59,Orange,,y,78,0
+Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,06037,37,Los Angeles,,y,421,5
+Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,04013,13,Maricopa,,y,81,2
+Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,06085,85,Santa Clara,,y,303,11
+Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,Suffolk,,y,126,2
+San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,06075,75,San Francisco,,y,84,0
+Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,Dane,,y,61,0
+San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,06073,73,San Diego,,y,159,0
+Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,Bexar,,y,50,1
+Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,Douglas,,y,46,0
+Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,06041,41,Marin,,y,38,0
+Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,06097,97,Sonoma,,y,11,0
+Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,06067,67,Sacramento,,y,52,3
+Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,06095,95,Solano,,y,19,0
+Napa,California,CA,38.507351,-122.325995,Napa County,CA NAPA,136484,06055,55,Napa,,y,1,0
+Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,06023,23,Humboldt,,y,2,0
+Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,Spokane,,y,20,0
+Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,Salt Lake,,y,84,0
+Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,Washington,,y,55,1
+King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,King,,y,1036,77
+Unknown,Rhode Island,RI,,,,,,,,Unknown,,y,83,0
+Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,06001,1,Alameda,,y,87,0
+New York City,New York,NY,40.776557,-73.970174,New York City,NY NEW YORK,8175133,,,New York,TRUE,y,9045,63
+Manatee,Florida,FL,27.481386,-82.365783,Manatee County,FL MANATEE,322833,12081,81,Manatee,,y,13,1
+Hillsborough,Florida,FL,27.90659,-82.349568,Hillsborough County,FL HILLSBOROUGH,1229226,12057,57,Hillsborough,,y,58,0
+Walla Walla,Washington,WA,46.254606,-118.480374,Walla Walla County,WA WALLA WALLA,58781,53071,71,Walla Walla,,y,1,0
+Grafton,New Hampshire,NH,43.926488,-71.842264,Grafton County,NH GRAFTON,89118,33009,9,Grafton,,y,15,0
+Placer,California,CA,39.062032,-120.722718,Placer County,CA PLACER,348432,06061,61,Placer,,y,12,1
+Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,25021,21,Norfolk,,y,75,0
+Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,Fulton,,y,109,3
+San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,06081,81,San Mateo,,y,110,1
+Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,Wake,,y,52,0
+Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,06013,13,Contra Costa,,y,51,1
+Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,Westchester,,y,1873,0
+Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,48157,157,Fort Bend,,y,29,0
+Bergen,New Jersey,NJ,40.95909,-74.074522,Bergen County,NJ BERGEN,905116,34003,3,Bergen,,y,457,10
+Chelan,Washington,WA,47.859891,-120.618543,Chelan County,WA CHELAN,72453,53007,7,Chelan,,y,3,1
+Williamson,Tennessee,TN,35.894972,-86.896958,Williamson County,TN WILLIAMSON,183182,47187,187,Williamson,,y,48,0
+Santa Rosa,Florida,FL,30.703633,-87.014255,Santa Rosa County,FL SANTA ROSA,151372,12113,113,Santa Rosa,,y,4,1
+Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,Nassau,,y,1900,7
+Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,Harris,,y,74,1
+Jefferson,Colorado,CO,39.58646,-105.245601,Jefferson County,CO JEFFERSON,534543,08059,59,Jefferson,,y,51,0
+Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,Montgomery,,y,83,1
+Douglas,Colorado,CO,39.326435,-104.926199,Douglas County,CO DOUGLAS,285465,08035,35,Douglas,,y,33,0
+Middlesex,Massachusetts,MA,42.479477,-71.396507,Middlesex County,MA MIDDLESEX,1503085,25017,17,Middlesex,,y,199,1
+Clark,Nevada,NV,36.214236,-115.013819,Clark County,NV CLARK,1951269,32003,3,Clark,,y,126,2
+Washoe,Nevada,NV,40.703311,-119.710315,Washoe County,NV WASHOE,421407,32031,31,Washoe,,y,25,0
+Wayne,Pennsylvania,PA,41.646589,-75.292485,Wayne County,PA WAYNE,52822,42127,127,Wayne,,y,2,0
+Delaware,Pennsylvania,PA,39.91667,-75.398786,Delaware County,PA DELAWARE,558979,42045,45,Delaware,,y,43,0
+Polk,Georgia,GA,33.995961,-85.186826,Polk County,GA POLK,41475,13233,233,Polk,,y,4,0
+Chatham,North Carolina,NC,35.704994,-79.251454,Chatham County,NC CHATHAM,63505,37037,37,Chatham,,y,3,0
+Pinal,Arizona,AZ,32.91891,-111.367257,Pinal County,AZ PINAL,375770,04021,21,Pinal,,y,16,0
+Marion,Indiana,IN,39.782976,-86.135794,Marion County,IN MARION,903393,18097,97,Marion,,y,82,3
+Rockland,New York,NY,41.154785,-74.024772,Rockland County,NY ROCKLAND,311687,36087,87,Rockland,,y,455,3
+Yolo,California,CA,38.679268,-121.903178,Yolo County,CA YOLO,200849,06113,113,Yolo,,y,6,0
+Camden,New Jersey,NJ,39.802352,-74.961251,Camden County,NJ CAMDEN,513657,34007,7,Camden,,y,22,0
+Ramsey,Minnesota,MN,45.01525,-93.100141,Ramsey County,MN RAMSEY,508640,27123,123,Ramsey,,y,18,1
+Jefferson,Washington,WA,47.802641,-123.52181,Jefferson County,WA JEFFERSON,29872,53031,31,Jefferson,,y,6,0
+Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,Fayette,,y,13,0
+Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,Tulsa,,y,6,1
+Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,08031,31,Denver,,y,125,0
+Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,08037,37,Eagle,,y,80,1
+El Paso,Colorado,CO,38.827383,-104.527472,El Paso County,CO EL PASO,622263,08041,41,El Paso,,y,51,3
+Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,Kershaw,,y,43,0
+Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON,350209,45019,19,Charleston,,y,13,1
+Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,Honolulu,,y,35,0
+Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,Pierce,,y,107,1
+Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,Lee,,y,26,2
+Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,Broward,,y,217,3
+Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,Davis,,y,19,1
+Clark,Washington,WA,45.771674,-122.485903,Clark County,WA CLARK,425363,53011,11,Clark,,y,10,3
+Gwinnett,Georgia,GA,33.959101,-84.022938,Gwinnett County,GA GWINNETT,805321,13135,135,Gwinnett,,y,27,1
+Cobb,Georgia,GA,33.93994,-84.574166,Cobb County,GA COBB,688078,13067,67,Cobb,,y,65,5
+Madera,California,CA,37.210039,-119.749852,Madera County,CA MADERA,150865,06039,39,Madera,,y,3,0
+Jackson,Oregon,OR,42.411782,-122.675797,Jackson County,OR JACKSON,203206,41029,29,Jackson,,y,2,0
+Klamath,Oregon,OR,42.683761,-121.646168,Klamath County,OR KLAMATH,66380,41035,35,Klamath,,y,1,0
+Kittitas,Washington,WA,47.124444,-120.676714,Kittitas County,WA KITTITAS,40915,53037,37,Kittitas,,y,4,0
+Saratoga,New York,NY,43.106135,-73.855387,Saratoga County,NY SARATOGA,219607,36091,91,Saratoga,,y,41,0
+Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,Berkshire,,y,23,1
+Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,Charlotte,,y,2,0
+Johnson,Kansas,KS,38.883907,-94.82233,Johnson County,KS JOHNSON,544179,20091,91,Johnson,,y,28,1
+Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,Montgomery,,y,110,1
+District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,District of Columbia,,y,98,2
+Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,06087,87,Santa Cruz,,y,2,0
+Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,Fairfax,,y,31,1
+Okaloosa,Florida,FL,30.665858,-86.594194,Okaloosa County,FL OKALOOSA,180822,12091,91,Okaloosa,,y,13,0
+Volusia,Florida,FL,29.057617,-81.161813,Volusia County,FL VOLUSIA,494593,12127,127,Volusia,,y,14,0
+St. Louis,Missouri,MO,38.640702,-90.445954,St. Louis County,MO ST. LOUIS,998954,29189,189,St. Louis,,y,22,1
+Fresno,California,CA,36.761006,-119.655019,Fresno County,CA FRESNO,930450,06019,19,Fresno,,y,10,0
+Bennington,Vermont,VT,43.035325,-73.11146,Bennington County,VT BENNINGTON,37125,50003,3,Bennington,,y,4,0
+Rockingham,New Hampshire,NH,42.98936,-71.099437,Rockingham County,NH ROCKINGHAM,295223,33015,15,Rockingham,,y,28,0
+Riverside,California,CA,33.729828,-116.002239,Riverside County,CA RIVERSIDE,2189641,06065,65,Riverside,,y,30,6
+Ulster,New York,NY,41.947232,-74.265447,Ulster County,NY ULSTER,182493,36111,111,Ulster,,y,26,0
+Suffolk,New York,NY,40.943554,-72.692218,Suffolk County,NY SUFFOLK,1493350,36103,103,Suffolk,,y,1034,12
+Shelby,Tennessee,TN,35.183794,-89.895397,Shelby County,TN SHELBY,927644,47157,157,Shelby,,y,66,0
+Davidson,Tennessee,TN,36.169129,-86.78479,Davidson County,TN DAVIDSON,626681,47037,37,Davidson,,y,167,1
+Fairfield,Connecticut,CT,41.228103,-73.366757,Fairfield County,CT FAIRFIELD,916829,09001,1,Fairfield,,y,208,5
+Hendricks,Indiana,IN,39.768749,-86.510286,Hendricks County,IN HENDRICKS,145448,18063,63,Hendricks,,y,8,0
+Passaic,New Jersey,NJ,41.033763,-74.300307,Passaic County,NJ PASSAIC,501226,34031,31,Passaic,,y,95,1
+Douglas,Oregon,OR,43.285904,-123.15438,Douglas County,OR DOUGLAS,107667,41019,19,Douglas,,y,1,0
+Marion,Oregon,OR,44.900898,-122.57626,Marion County,OR MARION,315335,41047,47,Marion,,y,22,1
+Worcester,Massachusetts,MA,42.311693,-71.940282,Worcester County,MA WORCESTER,798552,25027,27,Worcester,,y,37,0
+Spartanburg,South Carolina,SC,34.933239,-81.991053,Spartanburg County,SC SPARTANBURG,284307,45083,83,Spartanburg,,y,2,0
+Harford,Maryland,MD,39.537429,-76.299789,Harford County,MD HARFORD,244826,24025,25,Harford,,y,5,0
+Kitsap,Washington,WA,47.639687,-122.649636,Kitsap County,WA KITSAP,251133,53035,35,Kitsap,,y,20,0
+Harrison,Kentucky,KY,38.443489,-84.332796,Harrison County,KY HARRISON,18846,21097,97,Harrison,,y,8,0
+Jefferson,Kentucky,KY,38.189533,-85.657624,Jefferson County,KY JEFFERSON,741096,21111,111,Jefferson,,y,25,1
+Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,Johnson,,y,32,0
+Carver,Minnesota,MN,44.821381,-93.800575,Carver County,MN CARVER,91042,27019,19,Carver,,y,7,0
+Cherokee,Georgia,GA,34.244317,-84.475057,Cherokee County,GA CHEROKEE,214346,13057,57,Cherokee,,y,18,0
+Larimer,Colorado,CO,40.663091,-105.482131,Larimer County,CO LARIMER,299630,08069,69,Larimer,,y,32,0
+Collin,Texas,TX,33.193885,-96.578153,Collin County,TX COLLIN,782341,48085,85,Collin,,y,31,1
+Jefferson,Louisiana,LA,29.5033,-90.036231,Jefferson Parish,LA JEFFERSON,432552,22051,51,Jefferson,,y,184,3
+Monmouth,New Jersey,NJ,40.287056,-74.152446,Monmouth County,NJ MONMOUTH,630380,34025,25,Monmouth,,y,158,2
+Union,New Jersey,NJ,40.659871,-74.308696,Union County,NJ UNION,536499,34039,39,Union,,y,124,0
+Hudson,New Jersey,NJ,40.731384,-74.078627,Hudson County,NJ HUDSON,634266,34017,17,Hudson,,y,126,0
+Cuyahoga,Ohio,OH,41.760392,-81.724217,Cuyahoga County,OH CUYAHOGA,1280122,39035,35,Cuyahoga,,y,125,1
+Monroe,Pennsylvania,PA,41.056233,-75.329037,Monroe County,PA MONROE,169842,42089,89,Monroe,,y,31,0
+Noble,Indiana,IN,41.400794,-85.41785,Noble County,IN NOBLE,47536,18113,113,Noble,,y,1,0
+Pottawattamie,Iowa,IA,41.340184,-95.544905,Pottawattamie County,IA POTTAWATTAMIE,93158,19155,155,Pottawattamie,,y,2,0
+Pierce,Wisconsin,WI,44.725336,-92.426279,Pierce County,WI PIERCE,41019,55093,93,Pierce,,y,1,0
+Pima,Arizona,AZ,32.128237,-111.783018,Pima County,AZ PIMA,980263,04019,19,Pima,,y,17,0
+Prince George's,Maryland,MD,38.82588,-76.847272,Prince George's County,MD PRINCE GEORGE'S,863420,24033,33,Prince George's,,y,40,1
+Shasta,California,CA,40.760521,-122.04355,Shasta County,CA SHASTA,177223,06089,89,Shasta,,y,1,0
+Fayette,Georgia,GA,33.412717,-84.493941,Fayette County,GA FAYETTE,106567,13113,113,Fayette,,y,10,2
+DeKalb,Georgia,GA,33.770661,-84.226343,DeKalb County,GA DEKALB,691893,13089,89,DeKalb,,y,45,0
+Virginia Beach city,Virginia,VA,36.779322,-76.02402,Virginia Beach city,VA VIRGINIA BEACH CITY,437994,51810,810,Virginia Beach city,,y,17,0
+Arapahoe,Colorado,CO,39.644632,-104.331733,Arapahoe County,CO ARAPAHOE,572003,08005,5,Arapahoe,,y,45,0
+Floyd,Georgia,GA,34.263677,-85.21373,Floyd County,GA FLOYD,96317,13115,115,Floyd,,y,9,1
+Weber,Utah,UT,41.270355,-111.875879,Weber County,UT WEBER,231236,49057,57,Weber,,y,6,0
+Adams,Indiana,IN,40.745733,-84.93613,Adams County,IN ADAMS,34387,18001,1,Adams,,y,1,0
+Boone,Indiana,IN,40.050892,-86.469014,Boone County,IN BOONE,56640,18011,11,Boone,,y,3,0
+Ventura,California,CA,34.358741,-119.133143,Ventura County,CA VENTURA,823318,06111,111,Ventura,,y,26,0
+Gunnison,Colorado,CO,38.669679,-107.078108,Gunnison County,CO GUNNISON,15324,08051,51,Gunnison,,y,22,0
+Burlington,New Jersey,NJ,39.875786,-74.663006,Burlington County,NJ BURLINGTON,448734,34005,5,Burlington,,y,26,0
+Loudoun,Virginia,VA,39.08113,-77.638857,Loudoun County,VA LOUDOUN,312311,51107,107,Loudoun,,y,15,0
+Sullivan,Tennessee,TN,36.510212,-82.299397,Sullivan County,TN SULLIVAN,156823,47163,163,Sullivan,,y,1,0
+Philadelphia,Pennsylvania,PA,40.009376,-75.133346,Philadelphia County,PA PHILADELPHIA,1526006,42101,101,Philadelphia,,y,91,0
+Anoka,Minnesota,MN,45.27411,-93.242723,Anoka County,MN ANOKA,330844,27003,3,Anoka,,y,5,0
+Multnomah,Oregon,OR,45.547693,-122.417173,Multnomah County,OR MULTNOMAH,735334,41051,51,Multnomah,,y,19,1
+Kane,Illinois,IL,41.939594,-88.42804,Kane County,IL KANE,515269,17089,89,Kane,,y,13,0
+McHenry,Illinois,IL,42.324298,-88.452245,McHenry County,IL MCHENRY,308760,17111,111,McHenry,,y,12,0
+Essex,Massachusetts,MA,42.642711,-70.865107,Essex County,MA ESSEX,743159,25009,9,Essex,,y,60,0
+Orleans,Louisiana,LA,30.068636,-89.939007,Orleans Parish,LA ORLEANS,343829,22071,71,Orleans,,y,451,15
+Davison,South Dakota,SD,43.680439,-98.155868,Davison County,SD DAVISON,19504,46035,35,Davison,,y,2,1
+Beadle,South Dakota,SD,44.418265,-98.279422,Beadle County,SD BEADLE,17398,46005,5,Beadle,,y,10,0
+Charles Mix,South Dakota,SD,43.206185,-98.595143,Charles Mix County,SD CHARLES MIX,9129,46023,23,Charles Mix,,y,1,0
+Minnehaha,South Dakota,SD,43.667472,-96.795726,Minnehaha County,SD MINNEHAHA,169468,46099,99,Minnehaha,,y,5,0
+Whatcom,Washington,WA,48.842653,-121.836432,Whatcom County,WA WHATCOM,201140,53073,73,Whatcom,,y,19,2
+Dallas,Texas,TX,32.766987,-96.778424,Dallas County,TX DALLAS,2368139,48113,113,Dallas,,y,132,2
+San Joaquin,California,CA,37.935034,-121.272237,San Joaquin County,CA SAN JOAQUIN,685306,06077,77,San Joaquin,,y,31,2
+Tarrant,Texas,TX,32.77204,-97.291291,Tarrant County,TX TARRANT,1809034,48439,439,Tarrant,,y,47,1
+Skagit,Washington,WA,48.493066,-121.816278,Skagit County,WA SKAGIT,116901,53057,57,Skagit,,y,34,0
+Nassau,Florida,FL,30.605926,-81.764929,Nassau County,FL NASSAU,73314,12089,89,Nassau,,y,1,0
+Alachua,Florida,FL,29.67574,-82.357221,Alachua County,FL ALACHUA,247336,12001,1,Alachua,,y,35,0
+Collier,Florida,FL,26.118713,-81.400884,Collier County,FL COLLIER,321520,12021,21,Collier,,y,33,0
+Pinellas,Florida,FL,27.903122,-82.739518,Pinellas County,FL PINELLAS,916542,12103,103,Pinellas,,y,38,0
+Pasco,Florida,FL,28.302024,-82.455707,Pasco County,FL PASCO,464697,12101,101,Pasco,,y,11,0
+Oakland,Michigan,MI,42.660452,-83.38421,Oakland County,MI OAKLAND,1202362,26125,125,Oakland,,y,277,1
+Wayne,Michigan,MI,42.284664,-83.261953,Wayne County,MI WAYNE,1820584,26163,163,Wayne,,y,477,5
+Charlton,Georgia,GA,30.779904,-82.139644,Charlton County,GA CHARLTON,12171,13049,49,Charlton,,y,1,0
+Bucks,Pennsylvania,PA,40.336887,-75.10706,Bucks County,PA BUCKS,625249,42017,17,Bucks,,y,34,0
+Montgomery,Texas,TX,30.302364,-95.503523,Montgomery County,TX MONTGOMERY,455746,48339,339,Montgomery,,y,13,0
+Howard,Indiana,IN,40.483537,-86.114118,Howard County,IN HOWARD,82752,18067,67,Howard,,y,6,0
+Johnson,Indiana,IN,39.495986,-86.0946,Johnson County,IN JOHNSON,139654,18081,81,Johnson,,y,12,1
+Arlington,Virginia,VA,38.878337,-77.100703,Arlington County,VA ARLINGTON,207627,51013,13,Arlington,,y,26,0
+Jefferson,Arkansas,AR,34.277695,-91.930701,Jefferson County,AR JEFFERSON,77435,05069,69,Jefferson,,y,20,0
+Middlesex,New Jersey,NJ,40.439593,-74.407585,Middlesex County,NJ MIDDLESEX,809858,34023,23,Middlesex,,y,147,1
+Socorro,New Mexico,NM,33.991614,-106.939003,Socorro County,NM SOCORRO,17866,35053,53,Socorro,,y,2,0
+Bernalillo,New Mexico,NM,35.054002,-106.669064,Bernalillo County,NM BERNALILLO,662564,35001,1,Bernalillo,,y,34,0
+Olmsted,Minnesota,MN,44.003429,-92.406722,Olmsted County,MN OLMSTED,144248,27109,109,Olmsted,,y,14,0
+Pitkin,Colorado,CO,39.217533,-106.915943,Pitkin County,CO PITKIN,17148,08097,97,Pitkin,,y,16,0
+Stark,Ohio,OH,40.814131,-81.365667,Stark County,OH STARK,375586,39151,151,Stark,,y,10,0
+Thurston,Washington,WA,46.932598,-122.829441,Thurston County,WA THURSTON,252264,53067,67,Thurston,,y,11,0
+St. Joseph,Indiana,IN,41.617699,-86.288159,St. Joseph County,IN ST. JOSEPH,266931,18141,141,St. Joseph,,y,8,0
+New Castle,Delaware,DE,39.575915,-75.644132,New Castle County,DE NEW CASTLE,538479,10003,3,New Castle,,y,39,0
+Lake,Illinois,IL,42.294764,-87.90787,Lake County,IL LAKE,703462,17097,97,Lake,,y,69,0
+Polk,Oregon,OR,44.904395,-123.397329,Polk County,OR POLK,75403,41053,53,Polk,,y,1,0
+Umatilla,Oregon,OR,45.5912,-118.73388,Umatilla County,OR UMATILLA,75889,41059,59,Umatilla,,y,2,0
+Deschutes,Oregon,OR,43.915118,-121.225575,Deschutes County,OR DESCHUTES,157733,41017,17,Deschutes,,y,10,0
+Lancaster,South Carolina,SC,34.686818,-80.703688,Lancaster County,SC LANCASTER,76652,45057,57,Lancaster,,y,5,0
+Bon Homme,South Dakota,SD,42.986031,-97.885613,Bon Homme County,SD BON HOMME,7070,46009,9,Bon Homme,,y,1,0
+Waukesha,Wisconsin,WI,43.019308,-88.306707,Waukesha County,WI WAUKESHA,389891,55133,133,Waukesha,,y,30,0
+Fond du Lac,Wisconsin,WI,43.754722,-88.493284,Fond du Lac County,WI FOND DU LAC,101633,55039,39,Fond du Lac,,y,16,1
+Caddo,Louisiana,LA,32.577195,-93.882423,Caddo Parish,LA CADDO,254969,22017,17,Caddo,,y,16,0
+Island,Washington,WA,48.158436,-122.670503,Island County,WA ISLAND,78506,53029,29,Island,,y,21,1
+Chittenden,Vermont,VT,44.460675,-73.070525,Chittenden County,VT CHITTENDEN,156545,50007,7,Chittenden,,y,22,1
+Stanislaus,California,CA,37.562384,-121.002656,Stanislaus County,CA STANISLAUS,514453,06099,99,Stanislaus,,y,5,0
+Baltimore,Maryland,MD,39.443167,-76.616569,Baltimore County,MD BALTIMORE,805029,24005,5,Baltimore,,y,28,1
+Lowndes,Georgia,GA,30.83368,-83.268967,Lowndes County,GA LOWNDES,109233,13185,185,Lowndes,,y,8,0
+Forrest,Mississippi,MS,31.18858,-89.259447,Forrest County,MS FORREST,74934,28035,35,Forrest,,y,11,0
+Santa Fe,New Mexico,NM,35.513722,-105.966441,Santa Fe County,NM SANTA FE,144170,35049,49,Santa Fe,,y,10,0
+Gregg,Texas,TX,32.486397,-94.816276,Gregg County,TX GREGG,121730,48183,183,Gregg,,y,1,0
+Lee,Georgia,GA,31.818419,-84.146681,Lee County,GA LEE,28298,13177,177,Lee,,y,16,0
+Bartow,Georgia,GA,34.240917,-84.838188,Bartow County,GA BARTOW,100157,13015,15,Bartow,,y,58,1
+St. Johns,Florida,FL,29.890593,-81.383914,St. Johns County,FL ST. JOHNS,190039,12109,109,St. Johns,,y,16,0
+Miami-Dade,Florida,FL,25.610494,-80.499045,Miami-Dade County,FL MIAMI-DADE,2496435,12086,86,Miami-Dade,,y,227,0
+Linn,Oregon,OR,44.494824,-122.543755,Linn County,OR LINN,116672,41043,43,Linn,,y,19,1
+Ward,North Dakota,ND,48.216686,-101.540537,Ward County,ND WARD,61675,38101,101,Ward,,y,3,0
+Sheridan,Wyoming,WY,44.781369,-106.881211,Sheridan County,WY SHERIDAN,29116,56033,33,Sheridan,,y,4,0
+Cabarrus,North Carolina,NC,35.387845,-80.552868,Cabarrus County,NC CABARRUS,178011,37025,25,Cabarrus,,y,4,0
+Forsyth,North Carolina,NC,36.131667,-80.257289,Forsyth County,NC FORSYTH,350670,37067,67,Forsyth,,y,12,0
+Johnston,North Carolina,NC,35.513405,-78.367267,Johnston County,NC JOHNSTON,168878,37101,101,Johnston,,y,3,0
+Northampton,Pennsylvania,PA,40.752791,-75.307447,Northampton County,PA NORTHAMPTON,297735,42095,95,Northampton,,y,21,1
+Monroe,New York,NY,43.464475,-77.664656,Monroe County,NY MONROE,744344,36055,55,Monroe,,y,57,0
+Albany,New York,NY,42.588271,-73.974014,Albany County,NY ALBANY,304204,36001,1,Albany,,y,123,0
+Mecklenburg,North Carolina,NC,35.246862,-80.833832,Mecklenburg County,NC MECKLENBURG,919628,37119,119,Mecklenburg,,y,66,0
+James City,Virginia,VA,37.324427,-76.778319,James City County,VA JAMES CITY,67009,51095,95,James City,,y,32,2
+Prince William,Virginia,VA,38.702332,-77.478887,Prince William County,VA PRINCE WILLIAM,402002,51153,153,Prince William,,y,18,0
+Prince Edward,Virginia,VA,37.224881,-78.432957,Prince Edward County,VA PRINCE EDWARD,23368,51147,147,Prince Edward,,y,1,0
+Hanover,Virginia,VA,37.760165,-77.490992,Hanover County,VA HANOVER,99863,51085,85,Hanover,,y,1,0
+Alexandria city,Virginia,VA,38.818343,-77.082026,Alexandria city,VA ALEXANDRIA CITY,139966,51510,510,Alexandria city,,y,5,0
+Androscoggin,Maine,ME,44.167681,-70.207435,Androscoggin County,ME ANDROSCOGGIN,107702,23001,1,Androscoggin,,y,3,0
+Yakima,Washington,WA,46.456558,-120.740145,Yakima County,WA YAKIMA,243231,53077,77,Yakima,,y,24,0
+Dakota,Minnesota,MN,44.670893,-93.062481,Dakota County,MN DAKOTA,398552,27037,37,Dakota,,y,11,0
+Hennepin,Minnesota,MN,45.006064,-93.475185,Hennepin County,MN HENNEPIN,1152425,27053,53,Hennepin,,y,57,0
+Stearns,Minnesota,MN,45.555235,-94.610482,Stearns County,MN STEARNS,150642,27145,145,Stearns,,y,4,0
+Seminole,Florida,FL,28.690079,-81.13198,Seminole County,FL SEMINOLE,422718,12117,117,Seminole,,y,19,0
+Columbia,Washington,WA,46.29285,-117.911634,Columbia County,WA COLUMBIA,4078,53013,13,Columbia,,y,1,0
+Pike,Pennsylvania,PA,41.325949,-75.031514,Pike County,PA PIKE,57369,42103,103,Pike,,y,3,0
+Trumbull,Ohio,OH,41.308936,-80.767656,Trumbull County,OH TRUMBULL,210312,39155,155,Trumbull,,y,3,0
+Delaware,New York,NY,42.193986,-74.966728,Delaware County,NY DELAWARE,47980,36025,25,Delaware,,y,3,0
+Dutchess,New York,NY,41.755008,-73.739951,Dutchess County,NY DUTCHESS,297488,36027,27,Dutchess,,y,82,0
+Herkimer,New York,NY,43.461635,-74.894694,Herkimer County,NY HERKIMER,64519,36043,43,Herkimer,,y,4,0
+Orange,New York,NY,41.40241,-74.306252,Orange County,NY ORANGE,372813,36071,71,Orange,,y,247,0
+Essex,New Jersey,NJ,40.787216,-74.246136,Essex County,NJ ESSEX,783969,34013,13,Essex,,y,172,4
+Morris,New Jersey,NJ,40.858581,-74.547427,Morris County,NJ MORRIS,492276,34027,27,Morris,,y,119,1
+Unknown,New Jersey,NJ,,,,,,,,Unknown,,y,221,0
+Adams,Colorado,CO,39.874325,-104.331872,Adams County,CO ADAMS,441603,08001,1,Adams,,y,18,0
+Litchfield,Connecticut,CT,41.791897,-73.235428,Litchfield County,CT LITCHFIELD,189927,09005,5,Litchfield,,y,12,0
+Pulaski,Arkansas,AR,34.773988,-92.316515,Pulaski County,AR PULASKI,382748,05119,119,Pulaski,,y,52,0
+Carroll,Iowa,IA,42.039492,-94.867647,Carroll County,IA CARROLL,20816,19027,27,Carroll,,y,1,0
+Clackamas,Oregon,OR,45.160493,-122.195127,Clackamas County,OR CLACKAMAS,375992,41005,5,Clackamas,,y,12,0
+Greene,Missouri,MO,37.258196,-93.340641,Greene County,MO GREENE,275174,29077,77,Greene,,y,10,0
+Montgomery,Kentucky,KY,38.038138,-83.912337,Montgomery County,KY MONTGOMERY,26499,21173,173,Montgomery,,y,2,0
+Wyandotte,Kansas,KS,39.115384,-94.763087,Wyandotte County,KS WYANDOTTE,157505,20209,209,Wyandotte,,y,14,1
+Tulare,California,CA,36.230453,-118.780542,Tulare County,CA TULARE,442179,06107,107,Tulare,,y,12,0
+Grays Harbor,Washington,WA,47.142786,-123.827043,Grays Harbor County,WA GRAYS HARBOR,72797,53027,27,Grays Harbor,,y,1,0
+Ingham,Michigan,MI,42.603534,-84.373811,Ingham County,MI INGHAM,280895,26065,65,Ingham,,y,11,0
+Kent,Michigan,MI,43.032497,-85.547446,Kent County,MI KENT,602622,26081,81,Kent,,y,21,1
+Montcalm,Michigan,MI,43.312782,-85.149468,Montcalm County,MI MONTCALM,63342,26117,117,Montcalm,,y,1,0
+St. Clair,Michigan,MI,42.928803,-82.668913,St. Clair County,MI ST. CLAIR,163040,26147,147,St. Clair,,y,7,0
+Washtenaw,Michigan,MI,42.252327,-83.844634,Washtenaw County,MI WASHTENAW,344791,26161,161,Washtenaw,,y,34,1
+Knox,Tennessee,TN,35.992726,-83.937721,Knox County,TN KNOX,432226,47093,93,Knox,,y,5,0
+Anchorage,Alaska,AK,61.177549,-149.274354,Anchorage Municipality,AK ANCHORAGE MUNICIPALITY,291826,02020,20,Anchorage Municipality,,y,6,0
+Palm Beach,Florida,FL,26.645763,-80.448673,Palm Beach County,FL PALM BEACH,1320134,12099,99,Palm Beach,,y,71,1
+Sarasota,Florida,FL,27.184386,-82.365835,Sarasota County,FL SARASOTA,379448,12115,115,Sarasota,,y,17,0
+Duval,Florida,FL,30.335245,-81.648113,Duval County,FL DUVAL,864263,12031,31,Duval,,y,39,2
+Clay,Florida,FL,29.987115,-81.858147,Clay County,FL CLAY,190865,12019,19,Clay,,y,7,1
+Cass,Nebraska,NE,40.909878,-96.140609,Cass County,NE CASS,25241,31025,25,Cass,,y,1,0
+Travis,Texas,TX,30.239513,-97.69127,Travis County,TX TRAVIS,1024266,48453,453,Travis,,y,62,0
+Bell,Texas,TX,31.04211,-97.481921,Bell County,TX BELL,310235,48027,27,Bell,,y,8,0
+St. Charles,Louisiana,LA,29.913833,-90.359314,St. Charles Parish,LA ST. CHARLES,52780,22089,89,St. Charles,,y,8,0
+St. Tammany,Louisiana,LA,30.410022,-89.951962,St. Tammany Parish,LA ST. TAMMANY,233740,22103,103,St. Tammany,,y,25,0
+Terrebonne,Louisiana,LA,29.333266,-90.844191,Terrebonne Parish,LA TERREBONNE,111860,22109,109,Terrebonne,,y,12,0
+Cumberland,Maine,ME,43.808348,-70.330375,Cumberland County,ME CUMBERLAND,281674,23005,5,Cumberland,,y,53,0
+Butler,Kansas,KS,37.773681,-96.838762,Butler County,KS BUTLER,65880,20015,15,Butler,,y,3,0
+Montgomery,Alabama,AL,32.20365,-86.203831,Montgomery County,AL MONTGOMERY,229363,01101,101,Montgomery,,y,3,0
+Harrisonburg city,Virginia,VA,38.436013,-78.874197,Harrisonburg city,VA HARRISONBURG CITY,48914,51660,660,Harrisonburg city,,y,1,0
+Charles,Maryland,MD,38.472853,-77.015427,Charles County,MD CHARLES,146551,24017,17,Charles,,y,5,0
+Anne Arundel,Maryland,MD,38.993374,-76.560511,Anne Arundel County,MD ANNE ARUNDEL,537656,24003,3,Anne Arundel,,y,19,0
+Gordon,Georgia,GA,34.509667,-84.873862,Gordon County,GA GORDON,55186,13129,129,Gordon,,y,4,0
+Henry,Georgia,GA,33.452881,-84.15444,Henry County,GA HENRY,203922,13151,151,Henry,,y,8,1
+McCook,South Dakota,SD,43.678924,-97.362036,McCook County,SD MCCOOK,5618,46087,87,McCook,,y,1,0
+Galveston,Texas,TX,29.228706,-94.894865,Galveston County,TX GALVESTON,291309,48167,167,Galveston,,y,11,0
+Pueblo,Colorado,CO,38.170658,-104.489892,Pueblo County,CO PUEBLO,159063,08101,101,Pueblo,,y,3,0
+Summit,Colorado,CO,39.621023,-106.137555,Summit County,CO SUMMIT,27994,08117,117,Summit,,y,7,0
+Weld,Colorado,CO,40.555794,-104.383649,Weld County,CO WELD,252825,08123,123,Weld,,y,37,1
+Routt,Colorado,CO,40.48316,-106.985288,Routt County,CO ROUTT,23509,08107,107,Routt,,y,3,0
+Schenectady,New York,NY,42.817542,-74.043583,Schenectady County,NY SCHENECTADY,154727,36093,93,Schenectady,,y,39,7
+Wright,Minnesota,MN,45.175091,-93.966396,Wright County,MN WRIGHT,124700,27171,171,Wright,,y,3,0
+Ocean,New Jersey,NJ,39.86585,-74.263027,Ocean County,NJ OCEAN,576567,34029,29,Ocean,,y,102,0
+Jefferson,Tennessee,TN,36.048479,-83.440966,Jefferson County,TN JEFFERSON,51407,47089,89,Jefferson,,y,2,0
+Rutherford,Tennessee,TN,35.843369,-86.417213,Rutherford County,TN RUTHERFORD,262604,47149,149,Rutherford,,y,8,0
+Hamilton,Tennessee,TN,35.159186,-85.202296,Hamilton County,TN HAMILTON,336463,47065,65,Hamilton,,y,8,0
+Leelanau,Michigan,MI,45.146182,-86.051574,Leelanau County,MI LEELANAU,21708,26089,89,Leelanau,,y,1,0
+Chester,Pennsylvania,PA,39.973965,-75.749732,Chester County,PA CHESTER,498886,42029,29,Chester,,y,23,0
+Carson City,Nevada,NV,39.153447,-119.743442,Carson City,NV CARSON CITY,55274,32510,510,Carson City,,y,3,0
+Cumberland,Pennsylvania,PA,40.164782,-77.26344,Cumberland County,PA CUMBERLAND,235406,42041,41,Cumberland,,y,11,0
+Washington,Pennsylvania,PA,40.200005,-80.252132,Washington County,PA WASHINGTON,207820,42125,125,Washington,,y,7,0
+Wayne,North Carolina,NC,35.362741,-78.004826,Wayne County,NC WAYNE,122623,37191,191,Wayne,,y,1,0
+Leflore,Mississippi,MS,33.54979,-90.294934,Leflore County,MS LEFLORE,32317,28083,83,Leflore,,y,8,0
+Ada,Idaho,ID,43.447861,-116.244456,Ada County,ID ADA,392365,16001,1,Ada,,y,11,0
+Henry,Missouri,MO,38.386491,-93.792628,Henry County,MO HENRY,22272,29083,83,Henry,,y,1,0
+Harrison,Iowa,IA,41.688584,-95.827149,Harrison County,IA HARRISON,14928,19085,85,Harrison,,y,3,0
+Jefferson,Alabama,AL,33.553444,-86.896536,Jefferson County,AL JEFFERSON,658466,01073,73,Jefferson,,y,61,0
+Elmore,Alabama,AL,32.597229,-86.142738,Elmore County,AL ELMORE,79303,01051,51,Elmore,,y,6,0
+Limestone,Alabama,AL,34.810239,-86.981399,Limestone County,AL LIMESTONE,82782,01083,83,Limestone,,y,1,0
+Tuscaloosa,Alabama,AL,33.290202,-87.52286,Tuscaloosa County,AL TUSCALOOSA,194656,01125,125,Tuscaloosa,,y,7,0
+Bay,Michigan,MI,43.699711,-83.978701,Bay County,MI BAY,107771,26017,17,Bay,,y,1,0
+Charlevoix,Michigan,MI,45.311548,-85.271264,Charlevoix County,MI CHARLEVOIX,25949,26029,29,Charlevoix,,y,2,0
+Macomb,Michigan,MI,42.671467,-82.910869,Macomb County,MI MACOMB,840978,26099,99,Macomb,,y,140,1
+Unknown,Puerto Rico,PR,,,,,,,,Unknown,,y,23,1
+Gallatin,Montana,MT,45.535559,-111.173443,Gallatin County,MT GALLATIN,89513,30031,31,Gallatin,,y,8,0
+Yellowstone,Montana,MT,45.936987,-108.276656,Yellowstone County,MT YELLOWSTONE,147972,30111,111,Yellowstone,,y,5,0
+Silver Bow,Montana,MT,45.895959,-112.660222,Silver Bow County,MT SILVER BOW,34200,30093,93,Silver Bow,,y,2,0
+Lewis and Clark,Montana,MT,47.122133,-112.382954,Lewis and Clark County,MT LEWIS AND CLARK,63395,30049,49,Lewis and Clark,,y,3,0
+Oklahoma,Oklahoma,OK,35.554611,-97.409401,Oklahoma County,OK OKLAHOMA,718633,40109,109,Oklahoma,,y,26,0
+Fremont,Wyoming,WY,43.055303,-108.605531,Fremont County,WY FREMONT,40123,56013,13,Fremont,,y,9,0
+Orange,Florida,FL,28.514435,-81.323295,Orange County,FL ORANGE,1145956,12095,95,Orange,,y,32,1
+Osceola,Florida,FL,28.059027,-81.139312,Osceola County,FL OSCEOLA,268685,12097,97,Osceola,,y,24,0
+LaPorte,Indiana,IN,41.549011,-86.744729,LaPorte County,IN LAPORTE,111467,18091,91,LaPorte,,y,2,0
+Wells,Indiana,IN,40.735273,-85.212974,Wells County,IN WELLS,27636,18179,179,Wells,,y,1,0
+Broome,New York,NY,42.161977,-75.830291,Broome County,NY BROOME,200600,36007,7,Broome,,y,3,1
+Tioga,New York,NY,42.178057,-76.29745,Tioga County,NY TIOGA,51125,36107,107,Tioga,,y,1,0
+Tompkins,New York,NY,42.453281,-76.473712,Tompkins County,NY TOMPKINS,101564,36109,109,Tompkins,,y,13,0
+Milwaukee,Wisconsin,WI,43.037709,-87.918382,Milwaukee County,WI MILWAUKEE,947735,55079,79,Milwaukee,,y,182,2
+Racine,Wisconsin,WI,42.729888,-87.787778,Racine County,WI RACINE,195408,55101,101,Racine,,y,4,0
+Sheboygan,Wisconsin,WI,43.746002,-87.730546,Sheboygan County,WI SHEBOYGAN,115507,55117,117,Sheboygan,,y,6,0
+Bossier,Louisiana,LA,32.696202,-93.617977,Bossier Parish,LA BOSSIER,116979,22015,15,Bossier,,y,5,0
+St. John the Baptist,Louisiana,LA,30.117471,-90.504677,St. John the Baptist Parish,LA ST. JOHN THE BAPTIST,45924,22095,95,St. John the Baptist,,y,10,0
+Carroll,Maryland,MD,39.563189,-77.015512,Carroll County,MD CARROLL,167134,24013,13,Carroll,,y,4,0
+Summit,Utah,UT,40.87206,-110.968486,Summit County,UT SUMMIT,36324,49043,43,Summit,,y,50,0
+Coweta,Georgia,GA,33.352897,-84.762138,Coweta County,GA COWETA,127317,13077,77,Coweta,,y,8,0
+Nelson,Kentucky,KY,37.803188,-85.465955,Nelson County,KY NELSON,43437,21179,179,Nelson,,y,1,0
+Windsor,Vermont,VT,43.588143,-72.591514,Windsor County,VT WINDSOR,56670,50027,27,Windsor,,y,8,1
+Washington,Vermont,VT,44.274953,-72.609475,Washington County,VT WASHINGTON,59534,50023,23,Washington,,y,2,0
+Pearl River,Mississippi,MS,30.773791,-89.586831,Pearl River County,MS PEARL RIVER,55834,28109,109,Pearl River,,y,10,0
+Copiah,Mississippi,MS,31.866915,-90.448758,Copiah County,MS COPIAH,29449,28029,29,Copiah,,y,4,0
+Lafourche,Louisiana,LA,29.491992,-90.394849,Lafourche Parish,LA LAFOURCHE,96318,22057,57,Lafourche,,y,12,0
+Mercer,New Jersey,NJ,40.282503,-74.703724,Mercer County,NJ MERCER,366513,34021,21,Mercer,,y,40,0
+Brunswick,North Carolina,NC,34.038708,-78.227688,Brunswick County,NC BRUNSWICK,107431,37019,19,Brunswick,,y,5,0
+Harnett,North Carolina,NC,35.368635,-78.87161,Harnett County,NC HARNETT,114678,37085,85,Harnett,,y,8,0
+Craven,North Carolina,NC,35.118179,-77.082541,Craven County,NC CRAVEN,103505,37049,49,Craven,,y,2,0
+Onslow,North Carolina,NC,34.76346,-77.503297,Onslow County,NC ONSLOW,177772,37133,133,Onslow,,y,1,0
+Belmont,Ohio,OH,40.017682,-80.967727,Belmont County,OH BELMONT,70400,39013,13,Belmont,,y,2,0
+Butler,Ohio,OH,39.439915,-84.565397,Butler County,OH BUTLER,368130,39017,17,Butler,,y,17,0
+Franklin,Ohio,OH,39.969447,-83.008258,Franklin County,OH FRANKLIN,1163414,39049,49,Franklin,,y,34,0
+Lorain,Ohio,OH,41.438805,-82.179722,Lorain County,OH LORAIN,301356,39093,93,Lorain,,y,19,0
+Tuscarawas,Ohio,OH,40.447441,-81.471157,Tuscarawas County,OH TUSCARAWAS,92582,39157,157,Tuscarawas,,y,2,0
+Summit,Ohio,OH,41.121851,-81.534936,Summit County,OH SUMMIT,541781,39153,153,Summit,,y,23,0
+Franklin,Kansas,KS,38.558019,-95.278962,Franklin County,KS FRANKLIN,25992,20059,59,Franklin,,y,1,0
+Allegheny,Pennsylvania,PA,40.46892,-79.98092,Allegheny County,PA ALLEGHENY,1223348,42003,3,Allegheny,,y,40,1
+Brazoria,Texas,TX,29.167817,-95.434647,Brazoria County,TX BRAZORIA,313166,48039,39,Brazoria,,y,14,0
+Renville,Minnesota,MN,44.723697,-94.955617,Renville County,MN RENVILLE,15730,27129,129,Renville,,y,1,0
+Campbell,Tennessee,TN,36.401592,-84.159249,Campbell County,TN CAMPBELL,40716,47013,13,Campbell,,y,2,0
+Mesa,Colorado,CO,39.019492,-108.461837,Mesa County,CO MESA,146723,08077,77,Mesa,,y,2,0
+Grant,Washington,WA,47.213633,-119.467788,Grant County,WA GRANT,89120,53025,25,Grant,,y,18,0
+Blaine,Idaho,ID,43.394482,-113.95529,Blaine County,ID BLAINE,21376,16013,13,Blaine,,y,21,0
+DuPage,Illinois,IL,41.852058,-88.086038,DuPage County,IL DUPAGE,916924,17043,43,DuPage,,y,79,0
+Cumberland,Illinois,IL,39.273121,-88.240619,Cumberland County,IL CUMBERLAND,11048,17035,35,Cumberland,,y,1,0
+Woodford,Illinois,IL,40.789596,-89.210301,Woodford County,IL WOODFORD,38664,17203,203,Woodford,,y,2,0
+St. Clair,Illinois,IL,38.470198,-89.928546,St. Clair County,IL ST. CLAIR,270056,17163,163,St. Clair,,y,3,0
+Beaufort,South Carolina,SC,32.358147,-80.68932,Beaufort County,SC BEAUFORT,162233,45013,13,Beaufort,,y,14,0
+Lexington,South Carolina,SC,33.892554,-81.272853,Lexington County,SC LEXINGTON,262391,45063,63,Lexington,,y,12,1
+Jackson,Oklahoma,OK,34.593949,-99.41221,Jackson County,OK JACKSON,26446,40065,65,Jackson,,y,1,0
+Graham,Arizona,AZ,32.931828,-109.87831,Graham County,AZ GRAHAM,37220,04009,9,Graham,,y,2,0
+Hartford,Connecticut,CT,41.806053,-72.732916,Hartford County,CT HARTFORD,894014,09003,3,Hartford,,y,54,1
+New Haven,Connecticut,CT,41.349717,-72.900204,New Haven County,CT NEW HAVEN,862477,09009,9,New Haven,,y,29,0
+Sandoval,New Mexico,NM,35.685073,-106.882618,Sandoval County,NM SANDOVAL,131561,35043,43,Sandoval,,y,7,0
+Spotsylvania,Virginia,VA,38.182311,-77.65628,Spotsylvania County,VA SPOTSYLVANIA,122397,51177,177,Spotsylvania,,y,2,0
+Chesterfield,Virginia,VA,37.378434,-77.585847,Chesterfield County,VA CHESTERFIELD,316236,51041,41,Chesterfield,,y,8,0
+Winnebago,Wisconsin,WI,44.085707,-88.668149,Winnebago County,WI WINNEBAGO,166994,55139,139,Winnebago,,y,5,0
+Bourbon,Kentucky,KY,38.202562,-84.20986,Bourbon County,KY BOURBON,19985,21017,17,Bourbon,,y,2,1
+Boulder,Colorado,CO,40.094826,-105.398382,Boulder County,CO BOULDER,294567,08013,13,Boulder,,y,37,0
+Sangamon,Illinois,IL,39.756378,-89.662311,Sangamon County,IL SANGAMON,197465,17167,167,Sangamon,,y,4,1
+Dallas,Iowa,IA,41.685321,-94.040707,Dallas County,IA DALLAS,66135,19049,49,Dallas,,y,6,0
+Missoula,Montana,MT,47.027263,-113.892681,Missoula County,MT MISSOULA,109299,30063,63,Missoula,,y,4,0
+Monroe,Michigan,MI,41.916097,-83.487106,Monroe County,MI MONROE,152021,26115,115,Monroe,,y,6,0
+Baker,Florida,FL,30.324442,-82.302284,Baker County,FL BAKER,27115,12003,3,Baker,,y,2,0
+Citrus,Florida,FL,28.843628,-82.524796,Citrus County,FL CITRUS,141236,12017,17,Citrus,,y,8,0
+El Paso,Texas,TX,31.766403,-106.24139,El Paso County,TX EL PASO,800647,48141,141,El Paso,,y,6,0
+Hays,Texas,TX,30.061225,-98.029267,Hays County,TX HAYS,157107,48209,209,Hays,,y,6,0
+Smith,Texas,TX,32.377093,-95.26963,Smith County,TX SMITH,209714,48423,423,Smith,,y,10,0
+Kauai,Hawaii,HI,22.012038,-159.705965,Kauai County,HI KAUAI,67091,15007,7,Kauai,,y,3,0
+Baldwin,Alabama,AL,30.659218,-87.746067,Baldwin County,AL BALDWIN,182265,01003,3,Baldwin,,y,2,0
+Baltimore city,Maryland,MD,39.300213,-76.610516,Baltimore city,MD BALTIMORE CITY,620961,24510,510,Baltimore city,,y,24,0
+Saline,Arkansas,AR,34.648525,-92.674463,Saline County,AR SALINE,107118,05125,125,Saline,,y,1,0
+Hamilton,Indiana,IN,40.04987,-86.020586,Hamilton County,IN HAMILTON,274569,18057,57,Hamilton,,y,18,0
+Unknown,Guam,GU,,,,,,,,Unknown,,y,27,0
+Teton,Idaho,ID,43.760994,-111.211765,Teton County,ID TETON,10170,16081,81,Teton,,y,2,0
+St. Bernard,Louisiana,LA,29.91811,-89.263494,St. Bernard Parish,LA ST. BERNARD,35897,22087,87,St. Bernard,,y,13,0
+Barnstable,Massachusetts,MA,41.798819,-70.211083,Barnstable County,MA BARNSTABLE,215888,25001,1,Barnstable,,y,24,0
+Bristol,Massachusetts,MA,41.748576,-71.087062,Bristol County,MA BRISTOL,548285,25005,5,Bristol,,y,24,0
+Lucas,Ohio,OH,41.682321,-83.468867,Lucas County,OH LUCAS,441815,39095,95,Lucas,,y,5,1
+Dougherty,Georgia,GA,31.535068,-84.214444,Dougherty County,GA DOUGHERTY,94565,13095,95,Dougherty,,y,48,6
+Clayton,Georgia,GA,33.552242,-84.412977,Clayton County,GA CLAYTON,259424,13063,63,Clayton,,y,14,1
+Clarke,Georgia,GA,33.952234,-83.36713,Clarke County,GA CLARKE,116714,13059,59,Clarke,,y,9,0
+Newton,Georgia,GA,33.544045,-83.855189,Newton County,GA NEWTON,99958,13217,217,Newton,,y,4,0
+Unknown,Virgin Islands,VI,,,,,,,,Unknown,,y,6,0
+Lehigh,Pennsylvania,PA,40.614241,-75.590627,Lehigh County,PA LEHIGH,349497,42077,77,Lehigh,,y,19,0
+Luzerne,Pennsylvania,PA,41.172787,-75.976035,Luzerne County,PA LUZERNE,320918,42079,79,Luzerne,,y,7,0
+Cleveland,Oklahoma,OK,35.203117,-97.328332,Cleveland County,OK CLEVELAND,255755,40027,27,Cleveland,,y,13,0
+Payne,Oklahoma,OK,36.079225,-96.975255,Payne County,OK PAYNE,77350,40119,119,Payne,,y,2,0
+Erie,New York,NY,42.752759,-78.778192,Erie County,NY ERIE,919040,36029,29,Erie,,y,54,0
+Medina,Ohio,OH,41.116051,-81.899566,Medina County,OH MEDINA,172332,39103,103,Medina,,y,10,0
+Watauga,North Carolina,NC,36.235371,-81.709919,Watauga County,NC WATAUGA,51079,37189,189,Watauga,,y,2,0
+Garland,Arkansas,AR,34.578861,-93.146915,Garland County,AR GARLAND,96024,05051,51,Garland,,y,9,0
+Washington,Minnesota,MN,45.037929,-92.890117,Washington County,MN WASHINGTON,238136,27163,163,Washington,,y,7,0
+Waseca,Minnesota,MN,44.01846,-93.589844,Waseca County,MN WASECA,19136,27161,161,Waseca,,y,1,0
+Wilson,North Carolina,NC,35.704125,-77.918982,Wilson County,NC WILSON,81234,37195,195,Wilson,,y,2,0
+Utah,Utah,UT,40.120409,-111.668667,Utah County,UT UTAH,516564,49049,49,Utah,,y,7,0
+San Luis Obispo,California,CA,35.385227,-120.44754,San Luis Obispo County,CA SAN LUIS OBISPO,269637,06079,79,San Luis Obispo,,y,27,0
+Garfield,Colorado,CO,39.599352,-107.90978,Garfield County,CO GARFIELD,56389,08045,45,Garfield,,y,8,0
+Champaign,Illinois,IL,40.13915,-88.197201,Champaign County,IL CHAMPAIGN,201081,17019,19,Champaign,,y,4,0
+Clinton,Illinois,IL,38.606423,-89.423136,Clinton County,IL CLINTON,37762,17027,27,Clinton,,y,3,0
+Whiteside,Illinois,IL,41.750571,-89.910957,Whiteside County,IL WHITESIDE,58498,17195,195,Whiteside,,y,1,0
+Winnebago,Illinois,IL,42.337396,-89.161205,Winnebago County,IL WINNEBAGO,295266,17201,201,Winnebago,,y,4,0
+Clear Creek,Colorado,CO,39.689403,-105.670791,Clear Creek County,CO CLEAR CREEK,9088,08019,19,Clear Creek,,y,3,0
+Horry,South Carolina,SC,33.909269,-78.976675,Horry County,SC HORRY,269291,45051,51,Horry,,y,11,0
+Anderson,South Carolina,SC,34.519549,-82.638086,Anderson County,SC ANDERSON,187126,45007,7,Anderson,,y,10,0
+Greenville,South Carolina,SC,34.892645,-82.372077,Greenville County,SC GREENVILLE,451225,45045,45,Greenville,,y,19,0
+Clark,Kentucky,KY,37.970133,-84.144974,Clark County,KY CLARK,35613,21049,49,Clark,,y,2,0
+Lincoln,Maine,ME,43.994264,-69.514029,Lincoln County,ME LINCOLN,34457,23015,15,Lincoln,,y,4,0
+Hillsborough,New Hampshire,NH,42.911643,-71.723101,Hillsborough County,NH HILLSBOROUGH,400721,33011,11,Hillsborough,,y,16,0
+Ottawa,Michigan,MI,42.952394,-86.101626,Ottawa County,MI OTTAWA,263801,26139,139,Ottawa,,y,6,0
+Denton,Texas,TX,33.205005,-97.119046,Denton County,TX DENTON,662614,48121,121,Denton,,y,30,0
+Montgomery,New York,NY,42.900891,-74.435357,Montgomery County,NY MONTGOMERY,50219,36057,57,Montgomery,,y,3,0
+Greene,New York,NY,42.286951,-74.149495,Greene County,NY GREENE,49221,36039,39,Greene,,y,2,0
+Howard,Maryland,MD,39.252264,-76.924406,Howard County,MD HOWARD,287085,24027,27,Howard,,y,24,0
+Putnam,New York,NY,41.427904,-73.743882,Putnam County,NY PUTNAM,99710,36079,79,Putnam,,y,37,15
+Yamhill,Oregon,OR,45.248138,-123.316117,Yamhill County,OR YAMHILL,99193,41071,71,Yamhill,,y,6,0
+Lewis,Washington,WA,46.580071,-122.377444,Lewis County,WA LEWIS,75455,53041,41,Lewis,,y,2,0
+Lincoln,Washington,WA,47.582718,-118.417667,Lincoln County,WA LINCOLN,10570,53043,43,Lincoln,,y,1,0
+Maui,Hawaii,HI,20.855931,-156.60155,Maui County,HI MAUI,154834,15009,9,Maui,,y,7,0
+Lee,Alabama,AL,32.604064,-85.353048,Lee County,AL LEE,140247,01081,81,Lee,,y,14,0
+Shelby,Alabama,AL,33.262937,-86.678104,Shelby County,AL SHELBY,195085,01117,117,Shelby,,y,17,0
+Allamakee,Iowa,IA,43.274964,-91.382751,Allamakee County,IA ALLAMAKEE,14330,19005,5,Allamakee,,y,5,0
+Polk,Iowa,IA,41.684281,-93.56972,Polk County,IA POLK,430640,19153,153,Polk,,y,10,0
+Kay,Oklahoma,OK,36.814842,-97.143755,Kay County,OK KAY,46562,40071,71,Kay,,y,4,0
+Hinds,Mississippi,MS,32.267923,-90.4659,Hinds County,MS HINDS,245285,28049,49,Hinds,,y,20,0
+Hampden,Massachusetts,MA,42.136198,-72.635648,Hampden County,MA HAMPDEN,463490,25013,13,Hampden,,y,12,1
+Plymouth,Massachusetts,MA,41.987196,-70.741942,Plymouth County,MA PLYMOUTH,494919,25023,23,Plymouth,,y,25,0
+San Bernardino,California,CA,34.85722,-116.181197,San Bernardino County,CA SAN BERNARDINO,2035210,06071,71,San Bernardino,,y,9,0
+Bartholomew,Indiana,IN,39.205843,-85.897999,Bartholomew County,IN BARTHOLOMEW,76794,18005,5,Bartholomew,,y,5,0
+Floyd,Indiana,IN,38.317936,-85.911474,Floyd County,IN FLOYD,74578,18043,43,Floyd,,y,3,0
+Talbot,Maryland,MD,38.749427,-76.17913,Talbot County,MD TALBOT,37782,24041,41,Talbot,,y,1,0
+Frederick,Maryland,MD,39.470427,-77.397626,Frederick County,MD FREDERICK,233385,24021,21,Frederick,,y,1,0
+Allegany,New York,NY,42.247894,-78.026176,Allegany County,NY ALLEGANY,48946,36003,3,Allegany,,y,2,0
+Onondaga,New York,NY,43.00653,-76.196117,Onondaga County,NY ONONDAGA,467026,36067,67,Onondaga,,y,29,0
+Ontario,New York,NY,42.856695,-77.303277,Ontario County,NY ONTARIO,107931,36069,69,Ontario,,y,6,0
+Benton,Minnesota,MN,45.701227,-94.001439,Benton County,MN BENTON,38451,27009,9,Benton,,y,1,0
+Blue Earth,Minnesota,MN,44.038225,-94.064071,Blue Earth County,MN BLUE EARTH,64013,27013,13,Blue Earth,,y,4,0
+Canadian,Oklahoma,OK,35.543416,-97.979836,Canadian County,OK CANADIAN,115541,40017,17,Canadian,,y,2,0
+Cleveland,Arkansas,AR,33.893201,-92.188714,Cleveland County,AR CLEVELAND,8689,05025,25,Cleveland,,y,1,0
+Lincoln,Arkansas,AR,33.957665,-91.727624,Lincoln County,AR LINCOLN,14134,05079,79,Lincoln,,y,1,0
+Desha,Arkansas,AR,33.828748,-91.244427,Desha County,AR DESHA,13008,05041,41,Desha,,y,1,0
+Cleburne,Arkansas,AR,35.566288,-92.059974,Cleburne County,AR CLEBURNE,25970,05023,23,Cleburne,,y,25,0
+Lake,Florida,FL,28.764113,-81.712282,Lake County,FL LAKE,297052,12069,69,Lake,,y,6,0
+Santa Barbara,California,CA,34.537378,-120.038485,Santa Barbara County,CA SANTA BARBARA,423895,06083,83,Santa Barbara,,y,17,0
+Geauga,Ohio,OH,41.499322,-81.173505,Geauga County,OH GEAUGA,93389,39055,55,Geauga,,y,2,0
+Somerset,New Jersey,NJ,40.565522,-74.61993,Somerset County,NJ SOMERSET,323444,34035,35,Somerset,,y,51,1
+Hunterdon,New Jersey,NJ,40.565283,-74.911969,Hunterdon County,NJ HUNTERDON,128349,34019,19,Hunterdon,,y,16,0
+Nevada,California,CA,39.295191,-120.773446,Nevada County,CA NEVADA,98764,06057,57,Nevada,,y,1,0
+Outagamie,Wisconsin,WI,44.418226,-88.464988,Outagamie County,WI OUTAGAMIE,176695,55087,87,Outagamie,,y,2,0
+Wood,Wisconsin,WI,44.461413,-90.038825,Wood County,WI WOOD,74749,55141,141,Wood,,y,1,0
+Durham,North Carolina,NC,36.036589,-78.877919,Durham County,NC DURHAM,267587,37063,63,Durham,,y,40,0
+Bowie,Texas,TX,33.446051,-94.422375,Bowie County,TX BOWIE,92565,48037,37,Bowie,,y,1,0
+Wasatch,Utah,UT,40.334884,-111.161568,Wasatch County,UT WASATCH,23530,49051,51,Wasatch,,y,8,0
+Tooele,Utah,UT,40.467692,-113.124015,Tooele County,UT TOOELE,58218,49045,45,Tooele,,y,3,0
+Sevier,Tennessee,TN,35.791284,-83.521954,Sevier County,TN SEVIER,89889,47155,155,Sevier,,y,3,0
+Peoria,Illinois,IL,40.785999,-89.767358,Peoria County,IL PEORIA,186494,17143,143,Peoria,,y,3,0
+Will,Illinois,IL,41.448474,-87.978456,Will County,IL WILL,677560,17197,197,Will,,y,21,1
+Troup,Georgia,GA,33.034482,-85.02836,Troup County,GA TROUP,67044,13285,285,Troup,,y,4,0
+Hall,Georgia,GA,34.317588,-83.818497,Hall County,GA HALL,179684,13139,139,Hall,,y,9,0
+Paulding,Georgia,GA,33.920903,-84.866979,Paulding County,GA PAULDING,142324,13223,223,Paulding,,y,4,0
+Forsyth,Georgia,GA,34.225143,-84.127336,Forsyth County,GA FORSYTH,175511,13117,117,Forsyth,,y,4,0
+Fairfield,South Carolina,SC,34.395669,-81.127001,Fairfield County,SC FAIRFIELD,23956,45039,39,Fairfield,,y,1,0
+Unknown,Maine,ME,,,,,,,,Unknown,,y,8,0
+Hancock,Mississippi,MS,30.391437,-89.47985,Hancock County,MS HANCOCK,43929,28045,45,Hancock,,y,4,1
+Monroe,Mississippi,MS,33.89003,-88.485038,Monroe County,MS MONROE,36989,28095,95,Monroe,,y,2,0
+Unknown,Massachusetts,MA,,,,,,,,Unknown,,y,34,0
+Ascension,Louisiana,LA,30.202946,-90.910023,Ascension Parish,LA ASCENSION,107215,22005,5,Ascension,,y,17,0
+Escambia,Florida,FL,30.611664,-87.33904,Escambia County,FL ESCAMBIA,297619,12033,33,Escambia,,y,4,0
+Benton,Oregon,OR,44.490623,-123.426317,Benton County,OR BENTON,85579,41003,3,Benton,,y,4,0
+York,Virginia,VA,37.220914,-76.395533,York County,VA YORK,65464,51199,199,York,,y,5,0
+Stafford,Virginia,VA,38.418933,-77.459043,Stafford County,VA STAFFORD,128961,51179,179,Stafford,,y,5,0
+Carroll,New Hampshire,NH,43.867567,-71.201665,Carroll County,NH CARROLL,47818,33003,3,Carroll,,y,6,0
+Cass,Missouri,MO,38.647159,-94.354242,Cass County,MO CASS,99478,29037,37,Cass,,y,6,0
+Matagorda,Texas,TX,28.783341,-95.997755,Matagorda County,TX MATAGORDA,36702,48321,321,Matagorda,,y,4,1
+Fairbanks North Star Borough,Alaska,AK,64.690832,-146.599867,Fairbanks North Star Borough,AK FAIRBANKS NORTH STAR BOROUGH,97581,02090,90,Fairbanks North Star Borough,,y,7,0
+Franklin,Indiana,IN,39.409762,-85.066964,Franklin County,IN FRANKLIN,23087,18047,47,Franklin,,y,4,0
+Lake,Indiana,IN,41.472239,-87.374337,Lake County,IN LAKE,496005,18089,89,Lake,,y,10,0
+Clinton,New York,NY,44.75271,-73.705648,Clinton County,NY CLINTON,82128,36019,19,Clinton,,y,4,0
+Rensselaer,New York,NY,42.710421,-73.513845,Rensselaer County,NY RENSSELAER,159429,36083,83,Rensselaer,,y,26,6
+Sullivan,New York,NY,41.720176,-74.76468,Sullivan County,NY SULLIVAN,77547,36105,105,Sullivan,,y,16,0
+Wyoming,New York,NY,42.701363,-78.228567,Wyoming County,NY WYOMING,42155,36121,121,Wyoming,,y,2,0
+Ford,Kansas,KS,37.688365,-99.884734,Ford County,KS FORD,33848,20057,57,Ford,,y,1,0
+Williamsburg city,Virginia,VA,37.269293,-76.706717,Williamsburg city,VA WILLIAMSBURG CITY,14068,51830,830,Williamsburg city,,y,5,0
+Henrico,Virginia,VA,37.43752,-77.300333,Henrico County,VA HENRICO,306935,51087,87,Henrico,,y,8,0
+Goochland,Virginia,VA,37.724166,-77.914273,Goochland County,VA GOOCHLAND,21717,51075,75,Goochland,,y,2,0
+Charlottesville city,Virginia,VA,38.037658,-78.485381,Charlottesville city,VA CHARLOTTESVILLE CITY,43475,51540,540,Charlottesville city,,y,4,0
+Madison,Alabama,AL,34.764238,-86.55108,Madison County,AL MADISON,334811,01089,89,Madison,,y,12,0
+St. Clair,Alabama,AL,33.712963,-86.315663,St. Clair County,AL ST. CLAIR,83593,01115,115,St. Clair,,y,1,0
+Kern,California,CA,35.346629,-118.729506,Kern County,CA KERN,839631,06029,29,Kern,,y,5,0
+Nicollet,Minnesota,MN,44.358819,-94.245685,Nicollet County,MN NICOLLET,32727,27103,103,Nicollet,,y,3,0
+Martin,Minnesota,MN,43.677118,-94.537197,Martin County,MN MARTIN,20840,27091,91,Martin,,y,8,0
+Warren,New Jersey,NJ,40.853524,-75.009542,Warren County,NJ WARREN,108692,34041,41,Warren,,y,9,0
+Brevard,Florida,FL,28.298275,-80.700384,Brevard County,FL BREVARD,543376,12009,9,Brevard,,y,7,0
+Whitfield,Georgia,GA,34.801726,-84.968541,Whitfield County,GA WHITFIELD,102599,13313,313,Whitfield,,y,2,0
+Richmond,Georgia,GA,33.361487,-82.074998,Richmond County,GA RICHMOND,200549,13245,245,Richmond,,y,10,0
+Pawnee,Oklahoma,OK,36.313704,-96.696669,Pawnee County,OK PAWNEE,16577,40117,117,Pawnee,,y,3,1
+Beaver,Pennsylvania,PA,40.68414,-80.350721,Beaver County,PA BEAVER,170539,42007,7,Beaver,,y,3,0
+Franklin,Washington,WA,46.53458,-118.906944,Franklin County,WA FRANKLIN,78163,53021,21,Franklin,,y,3,1
+Iredell,North Carolina,NC,35.806356,-80.874545,Iredell County,NC IREDELL,159437,37097,97,Iredell,,y,6,0
+Sampson,North Carolina,NC,34.990574,-78.371382,Sampson County,NC SAMPSON,63431,37163,163,Sampson,,y,1,0
+Jackson,Michigan,MI,42.248474,-84.420868,Jackson County,MI JACKSON,160248,26075,75,Jackson,,y,1,0
+Otsego,Michigan,MI,45.021794,-84.576597,Otsego County,MI OTSEGO,24164,26137,137,Otsego,,y,1,0
+Coshocton,Ohio,OH,40.29672,-81.930112,Coshocton County,OH COSHOCTON,36901,39031,31,Coshocton,,y,2,0
+Darke,Ohio,OH,40.132176,-84.620438,Darke County,OH DARKE,52959,39037,37,Darke,,y,1,0
+Lake,Ohio,OH,41.924116,-81.392643,Lake County,OH LAKE,230041,39085,85,Lake,,y,6,0
+Mahoning,Ohio,OH,41.01088,-80.770396,Mahoning County,OH MAHONING,238823,39099,99,Mahoning,,y,18,0
+Navajo,Arizona,AZ,35.390934,-110.320908,Navajo County,AZ NAVAJO,107449,04017,17,Navajo,,y,13,0
+Jackson,Missouri,MO,39.007233,-94.342507,Jackson County,MO JACKSON,674158,29095,95,Jackson,,y,5,1
+Box Elder,Utah,UT,41.476021,-113.052922,Box Elder County,UT BOX ELDER,49975,49003,3,Box Elder,,y,1,0
+Washington,Utah,UT,37.262531,-113.4878,Washington County,UT WASHINGTON,138115,49053,53,Washington,,y,2,0
+Gloucester,New Jersey,NJ,39.721019,-75.143708,Gloucester County,NJ GLOUCESTER,288288,34015,15,Gloucester,,y,8,0
+Cass,North Dakota,ND,46.927003,-97.252375,Cass County,ND CASS,149778,38017,17,Cass,,y,1,0
+Kenosha,Wisconsin,WI,42.579703,-87.424898,Kenosha County,WI KENOSHA,166426,55059,59,Kenosha,,y,10,0
+Douglas,Kansas,KS,38.896573,-95.290529,Douglas County,KS DOUGLAS,110826,20045,45,Douglas,,y,4,0
+Knox,Nebraska,NE,42.634404,-97.891349,Knox County,NE KNOX,8701,31107,107,Knox,,y,2,0
+Calhoun,South Carolina,SC,33.67478,-80.780347,Calhoun County,SC CALHOUN,15175,45017,17,Calhoun,,y,1,0
+Richland,South Carolina,SC,34.029783,-80.896566,Richland County,SC RICHLAND,384504,45079,79,Richland,,y,31,0
+York,South Carolina,SC,34.97019,-81.183188,York County,SC YORK,226073,45091,91,York,,y,4,0
+Jefferson,West Virginia,WV,39.307398,-77.86322,Jefferson County,WV JEFFERSON,53498,54037,37,Jefferson,,y,3,0
+Cole,Missouri,MO,38.506847,-92.271404,Cole County,MO COLE,75990,29051,51,Cole,,y,3,0
+Boone,Missouri,MO,38.989657,-92.310779,Boone County,MO BOONE,162642,29019,19,Boone,,y,11,1
+Sarpy,Nebraska,NE,41.115064,-96.109125,Sarpy County,NE SARPY,158840,31153,153,Sarpy,,y,3,0
+East Baton Rouge,Louisiana,LA,30.544002,-91.093174,East Baton Rouge Parish,LA EAST BATON ROUGE,440171,22033,33,East Baton Rouge,,y,20,0
+Washington,Louisiana,LA,30.852144,-90.046253,Washington Parish,LA WASHINGTON,47168,22117,117,Washington,,y,2,0
+Polk,Florida,FL,27.953115,-81.692783,Polk County,FL POLK,602095,12105,105,Polk,,y,11,0
+Adair,Iowa,IA,41.328528,-94.478164,Adair County,IA ADAIR,7682,19001,1,Adair,,y,1,0
+Black Hawk,Iowa,IA,42.472888,-92.306059,Black Hawk County,IA BLACK HAWK,131090,19013,13,Black Hawk,,y,3,0
+Madison,Idaho,ID,43.789709,-111.65655,Madison County,ID MADISON,37536,16065,65,Madison,,y,2,0
+Burleigh,North Dakota,ND,46.971843,-100.462001,Burleigh County,ND BURLEIGH,81308,38015,15,Burleigh,,y,15,0
+Lyon,Kentucky,KY,37.023976,-88.083391,Lyon County,KY LYON,8314,21143,143,Lyon,,y,1,0
+Laramie,Wyoming,WY,41.29283,-104.660395,Laramie County,WY LARAMIE,91738,56021,21,Laramie,,y,5,0
+Hawaii,Hawaii,HI,19.597764,-155.502443,Hawaii County,HI HAWAII,185079,15001,1,Hawaii,,y,3,0
+Klickitat,Washington,WA,45.869509,-120.780117,Klickitat County,WA KLICKITAT,20318,53039,39,Klickitat,,y,4,0
+Ketchikan Gateway Borough,Alaska,AK,55.449938,-131.106685,Ketchikan Gateway Borough,AK KETCHIKAN GATEWAY BOROUGH,13477,02130,130,Ketchikan Gateway Borough,,y,6,0
+Taos,New Mexico,NM,36.576529,-105.637986,Taos County,NM TAOS,32937,35055,55,Taos,,y,3,0
+Harrison,Mississippi,MS,30.416536,-89.083376,Harrison County,MS HARRISON,187105,28047,47,Harrison,,y,15,0
+Jackson,Mississippi,MS,30.458491,-88.619991,Jackson County,MS JACKSON,139668,28059,59,Jackson,,y,5,0
+Oxford,Maine,ME,44.494585,-70.734687,Oxford County,ME OXFORD,57833,23017,17,Oxford,,y,4,0
+York,Maine,ME,43.427239,-70.670402,York County,ME YORK,197131,23031,31,York,,y,8,0
+Kennebec,Maine,ME,44.417012,-69.765764,Kennebec County,ME KENNEBEC,122151,23011,11,Kennebec,,y,4,0
+Sussex,Delaware,DE,38.677511,-75.335495,Sussex County,DE SUSSEX,197145,10005,5,Sussex,,y,12,0
+Lincoln,Nebraska,NE,41.050322,-100.744481,Lincoln County,NE LINCOLN,36288,31111,111,Lincoln,,y,3,0
+Kent,Delaware,DE,39.097088,-75.502982,Kent County,DE KENT,162310,10001,1,Kent,,y,5,0
+Clark,Indiana,IN,38.476217,-85.711122,Clark County,IN CLARK,110232,18019,19,Clark,,y,4,0
+Fayette,Indiana,IN,39.639655,-85.185032,Fayette County,IN FAYETTE,24277,18041,41,Fayette,,y,1,0
+Jennings,Indiana,IN,38.996234,-85.628111,Jennings County,IN JENNINGS,28525,18079,79,Jennings,,y,1,0
+Madison,Indiana,IN,40.166203,-85.722454,Madison County,IN MADISON,131636,18095,95,Madison,,y,2,0
+Bolivar,Mississippi,MS,33.799278,-90.884476,Bolivar County,MS BOLIVAR,34145,28011,11,Bolivar,,y,3,0
+Coahoma,Mississippi,MS,34.22867,-90.603165,Coahoma County,MS COAHOMA,26151,28027,27,Coahoma,,y,7,0
+DeSoto,Mississippi,MS,34.874266,-89.99324,DeSoto County,MS DESOTO,161252,28033,33,DeSoto,,y,18,0
+Madison,Mississippi,MS,32.63437,-90.03416,Madison County,MS MADISON,95203,28089,89,Madison,,y,9,0
+Perry,Mississippi,MS,31.169307,-88.988755,Perry County,MS PERRY,12250,28111,111,Perry,,y,1,0
+Morton,North Dakota,ND,46.713789,-101.279743,Morton County,ND MORTON,27471,38059,59,Morton,,y,8,0
+Park,Wyoming,WY,44.492387,-109.593597,Park County,WY PARK,28205,56029,29,Park,,y,1,0
+Wichita,Texas,TX,33.991103,-98.716851,Wichita County,TX WICHITA,131500,48485,485,Wichita,,y,5,0
+Washington,Arkansas,AR,35.971209,-94.218417,Washington County,AR WASHINGTON,203065,05143,143,Washington,,y,5,0
+Penobscot,Maine,ME,45.390602,-68.657487,Penobscot County,ME PENOBSCOT,153923,23019,19,Penobscot,,y,2,0
+Chenango,New York,NY,42.489732,-75.604905,Chenango County,NY CHENANGO,50477,36017,17,Chenango,,y,3,0
+Essex,New York,NY,44.108971,-73.777573,Essex County,NY ESSEX,39370,36031,31,Essex,,y,3,0
+Warren,New York,NY,43.555105,-73.838139,Warren County,NY WARREN,65707,36113,113,Warren,,y,1,0
+Washington,New York,NY,43.312377,-73.439428,Washington County,NY WASHINGTON,63216,36115,115,Washington,,y,1,0
+Hamilton,New York,NY,43.657879,-74.502456,Hamilton County,NY HAMILTON,4836,36041,41,Hamilton,,y,2,0
+Jefferson,New York,NY,43.995371,-76.053522,Jefferson County,NY JEFFERSON,116229,36045,45,Jefferson,,y,1,0
+Livingston,New York,NY,42.727485,-77.769779,Livingston County,NY LIVINGSTON,65393,36051,51,Livingston,,y,2,0
+Rice,Minnesota,MN,44.350943,-93.298503,Rice County,MN RICE,64142,27131,131,Rice,,y,1,0
+Guilford,North Carolina,NC,36.079065,-79.788665,Guilford County,NC GUILFORD,488406,37081,81,Guilford,,y,11,0
+Moore,North Carolina,NC,35.310163,-79.480664,Moore County,NC MOORE,88247,37125,125,Moore,,y,2,0
+Lincoln,North Carolina,NC,35.487825,-81.225176,Lincoln County,NC LINCOLN,78265,37109,109,Lincoln,,y,1,0
+Lane,Oregon,OR,43.928276,-122.897678,Lane County,OR LANE,351715,41039,39,Lane,,y,4,1
+Berks,Pennsylvania,PA,40.413957,-75.92686,Berks County,PA BERKS,411442,42011,11,Berks,,y,13,0
+Lackawanna,Pennsylvania,PA,41.44025,-75.609587,Lackawanna County,PA LACKAWANNA,214437,42069,69,Lackawanna,,y,6,0
+York,Pennsylvania,PA,39.921839,-76.728446,York County,PA YORK,434972,42133,133,York,,y,10,0
+Faulkner,Arkansas,AR,35.146356,-92.324654,Faulkner County,AR FAULKNER,113237,05045,45,Faulkner,,y,7,0
+Calhoun,Alabama,AL,33.771706,-85.822513,Calhoun County,AL CALHOUN,118572,01015,15,Calhoun,,y,1,0
+Brazos,Texas,TX,30.656725,-96.302389,Brazos County,TX BRAZOS,194851,48041,41,Brazos,,y,12,0
+Lavaca,Texas,TX,29.382578,-96.923633,Lavaca County,TX LAVACA,19263,48285,285,Lavaca,,y,1,0
+Medina,Texas,TX,29.353661,-99.111085,Medina County,TX MEDINA,46006,48325,325,Medina,,y,6,0
+Rusk,Texas,TX,32.109423,-94.756382,Rusk County,TX RUSK,53330,48401,401,Rusk,,y,1,0
+Webb,Texas,TX,27.770584,-99.326641,Webb County,TX WEBB,250304,48479,479,Webb,,y,2,0
+Leon,Florida,FL,30.45931,-84.2778,Leon County,FL LEON,275487,12073,73,Leon,,y,5,0
+Sumter,Florida,FL,28.714294,-82.074715,Sumter County,FL SUMTER,93420,12119,119,Sumter,,y,5,0
+Yuma,Colorado,CO,40.000631,-102.422649,Yuma County,CO YUMA,10043,08125,125,Yuma,,y,1,0
+Ashland,Ohio,OH,40.843274,-82.270121,Ashland County,OH ASHLAND,53139,39005,5,Ashland,,y,1,0
+Huron,Ohio,OH,41.14508,-82.594641,Huron County,OH HURON,59626,39077,77,Huron,,y,1,0
+Delaware,Ohio,OH,40.278941,-83.007462,Delaware County,OH DELAWARE,174214,39041,41,Delaware,,y,6,0
+Atlantic,New Jersey,NJ,39.469354,-74.633758,Atlantic County,NJ ATLANTIC,274549,34001,1,Atlantic,,y,5,0
+Leavenworth,Kansas,KS,39.189511,-95.038977,Leavenworth County,KS LEAVENWORTH,76227,20103,103,Leavenworth,,y,4,0
+Brown,Wisconsin,WI,44.473961,-87.995926,Brown County,WI BROWN,248007,55009,9,Brown,,y,3,0
+La Crosse,Wisconsin,WI,43.908222,-91.111758,La Crosse County,WI LA CROSSE,114638,55063,63,La Crosse,,y,5,0
+Washington,Wisconsin,WI,43.391156,-88.232917,Washington County,WI WASHINGTON,131887,55131,131,Washington,,y,14,0
+St. Louis city,Missouri,MO,38.635699,-90.244582,St. Louis city,MO ST. LOUIS CITY,319294,29510,510,St. Louis city,,y,14,0
+Cheatham,Tennessee,TN,36.25518,-87.100816,Cheatham County,TN CHEATHAM,39105,47021,21,Cheatham,,y,3,0
+Robertson,Tennessee,TN,36.52753,-86.869377,Robertson County,TN ROBERTSON,66283,47147,147,Robertson,,y,3,0
+Sumner,Tennessee,TN,36.470015,-86.458517,Sumner County,TN SUMNER,160645,47165,165,Sumner,,y,22,0
+Kendall,Illinois,IL,41.58814,-88.430626,Kendall County,IL KENDALL,114736,17093,93,Kendall,,y,4,0
+Madison,Illinois,IL,38.827082,-89.900195,Madison County,IL MADISON,269282,17119,119,Madison,,y,2,0
+Jackson,Illinois,IL,37.786096,-89.381212,Jackson County,IL JACKSON,60218,17077,77,Jackson,,y,1,0
+Williamson,Illinois,IL,37.730353,-88.930018,Williamson County,IL WILLIAMSON,66357,17199,199,Williamson,,y,1,0
+Washington,Illinois,IL,38.35314,-89.417187,Washington County,IL WASHINGTON,14716,17189,189,Washington,,y,1,0
+LaSalle,Illinois,IL,41.343341,-88.885931,LaSalle County,IL LASALLE,113924,17099,99,LaSalle,,y,1,0
+Kankakee,Illinois,IL,41.139494,-87.861125,Kankakee County,IL KANKAKEE,113449,17091,91,Kankakee,,y,2,0
+Columbia,Georgia,GA,33.550556,-82.251342,Columbia County,GA COLUMBIA,124053,13073,73,Columbia,,y,3,0
+Houston,Georgia,GA,32.458381,-83.662856,Houston County,GA HOUSTON,139900,13153,153,Houston,,y,1,0
+New Hanover,North Carolina,NC,34.177466,-77.871378,New Hanover County,NC NEW HANOVER,202667,37129,129,New Hanover,,y,3,0
+Franklin,Massachusetts,MA,42.583791,-72.591655,Franklin County,MA FRANKLIN,71372,25011,11,Franklin,,y,2,0
+Middlesex,Connecticut,CT,41.434525,-72.524227,Middlesex County,CT MIDDLESEX,165676,09007,7,Middlesex,,y,6,0
+Gaston,North Carolina,NC,35.293344,-81.177256,Gaston County,NC GASTON,206086,37071,71,Gaston,,y,3,0
+Talladega,Alabama,AL,33.369277,-86.175805,Talladega County,AL TALLADEGA,82291,01121,121,Talladega,,y,1,0
+Lee,South Carolina,SC,34.15864,-80.251209,Lee County,SC LEE,19220,45061,61,Lee,,y,1,0
+Charles City,Virginia,VA,37.361048,-77.054171,Charles City County,VA CHARLES CITY,7256,51036,36,Charles City,,y,1,0
+Richmond city,Virginia,VA,37.531399,-77.476009,Richmond city,VA RICHMOND CITY,204214,51760,760,Richmond city,,y,6,0
+Washington,Iowa,IA,41.329401,-91.725052,Washington County,IA WASHINGTON,21704,19183,183,Washington,,y,3,0
+Winneshiek,Iowa,IA,43.292989,-91.850788,Winneshiek County,IA WINNESHIEK,21056,19191,191,Winneshiek,,y,1,0
+Walton,Florida,FL,30.631211,-86.176614,Walton County,FL WALTON,55043,12131,131,Walton,,y,4,0
+Clark,Ohio,OH,39.917032,-83.783676,Clark County,OH CLARK,138333,39023,23,Clark,,y,1,0
+Miami,Ohio,OH,40.053326,-84.228413,Miami County,OH MIAMI,102506,39109,109,Miami,,y,13,0
+Hoke,North Carolina,NC,35.017233,-79.241964,Hoke County,NC HOKE,46952,37093,93,Hoke,,y,1,0
+Unknown,Louisiana,LA,,,,,,,,Unknown,,y,11,0
+Lubbock,Texas,TX,33.611469,-101.819944,Lubbock County,TX LUBBOCK,278831,48303,303,Lubbock,,y,9,0
+Adams,Nebraska,NE,40.520632,-98.500044,Adams County,NE ADAMS,31364,31001,1,Adams,,y,1,0
+San Benito,California,CA,36.610702,-121.085296,San Benito County,CA SAN BENITO,55269,06069,69,San Benito,,y,2,1
+Mercer,West Virginia,WV,37.403448,-81.106456,Mercer County,WV MERCER,62264,54055,55,Mercer,,y,2,0
+St. Charles,Missouri,MO,38.781102,-90.674915,St. Charles County,MO ST. CHARLES,360485,29183,183,St. Charles,,y,3,0
+Bradley,Arkansas,AR,33.463819,-92.168164,Bradley County,AR BRADLEY,11508,05011,11,Bradley,,y,1,0
+Twin Falls,Idaho,ID,42.352309,-114.665639,Twin Falls County,ID TWIN FALLS,77230,16083,83,Twin Falls,,y,1,0
+Adams,Pennsylvania,PA,39.869471,-77.21773,Adams County,PA ADAMS,101407,42001,1,Adams,,y,5,0
+Franklin,Kentucky,KY,38.234919,-84.868786,Franklin County,KY FRANKLIN,49285,21073,73,Franklin,,y,1,0
+Kenton,Kentucky,KY,38.930477,-84.533492,Kenton County,KY KENTON,159720,21117,117,Kenton,,y,2,0
+Warren,Kentucky,KY,36.995634,-86.423579,Warren County,KY WARREN,113792,21227,227,Warren,,y,4,0
+Coconino,Arizona,AZ,35.829692,-111.773728,Coconino County,AZ COCONINO,134421,04005,5,Coconino,,y,15,0
+Mendocino,California,CA,39.432388,-123.442881,Mendocino County,CA MENDOCINO,87841,06045,45,Mendocino,,y,1,0
+Belknap,New Hampshire,NH,43.519109,-71.425366,Belknap County,NH BELKNAP,60088,33001,1,Belknap,,y,4,0
+Merrimack,New Hampshire,NH,43.299485,-71.68013,Merrimack County,NH MERRIMACK,146445,33013,13,Merrimack,,y,4,0
+Orange,Vermont,VT,44.003392,-72.369687,Orange County,VT ORANGE,28936,50017,17,Orange,,y,3,0
+Mason,Washington,WA,47.354126,-123.17385,Mason County,WA MASON,60699,53045,45,Mason,,y,1,0
+Calvert,Maryland,MD,38.521357,-76.525864,Calvert County,MD CALVERT,88737,24009,9,Calvert,,y,2,0
+Owen,Indiana,IN,39.317339,-86.838845,Owen County,IN OWEN,21575,18119,119,Owen,,y,1,0
+Tippecanoe,Indiana,IN,40.38926,-86.893943,Tippecanoe County,IN TIPPECANOE,172780,18157,157,Tippecanoe,,y,2,0
+Wayne,Indiana,IN,39.863091,-85.006735,Wayne County,IN WAYNE,68917,18177,177,Wayne,,y,1,0
+Lafayette,Louisiana,LA,30.206507,-92.06417,Lafayette Parish,LA LAFAYETTE,221578,22055,55,Lafayette,,y,6,0
+West Baton Rouge,Louisiana,LA,30.464052,-91.309808,West Baton Rouge Parish,LA WEST BATON ROUGE,23788,22121,121,West Baton Rouge,,y,3,0
+St. James,Louisiana,LA,30.02482,-90.793956,St. James Parish,LA ST. JAMES,22102,22093,93,St. James,,y,1,1
+Plaquemines,Louisiana,LA,29.402337,-89.298489,Plaquemines Parish,LA PLAQUEMINES,23042,22075,75,Plaquemines,,y,5,0
+Wayne,New York,NY,43.458758,-77.063164,Wayne County,NY WAYNE,93772,36117,117,Wayne,,y,3,0
+Schoharie,New York,NY,42.591294,-74.438172,Schoharie County,NY SCHOHARIE,32749,36095,95,Schoharie,,y,1,0
+Eau Claire,Wisconsin,WI,44.726355,-91.286414,Eau Claire County,WI EAU CLAIRE,98736,55035,35,Eau Claire,,y,4,0
+Holmes,Mississippi,MS,33.125942,-90.091197,Holmes County,MS HOLMES,19198,28051,51,Holmes,,y,6,0
+Yazoo,Mississippi,MS,32.765675,-90.387928,Yazoo County,MS YAZOO,28065,28163,163,Yazoo,,y,1,0
+Smith,Mississippi,MS,32.019033,-89.494973,Smith County,MS SMITH,16491,28129,129,Smith,,y,2,0
+Jones,Mississippi,MS,31.621044,-89.167262,Jones County,MS JONES,67761,28067,67,Jones,,y,1,0
+Walthall,Mississippi,MS,31.164492,-90.103431,Walthall County,MS WALTHALL,15443,28147,147,Walthall,,y,2,0
+Wilkinson,Mississippi,MS,31.160249,-91.325567,Wilkinson County,MS WILKINSON,9878,28157,157,Wilkinson,,y,3,0
+Winston,Mississippi,MS,33.078724,-89.037391,Winston County,MS WINSTON,19198,28159,159,Winston,,y,2,0
+Chambers,Alabama,AL,32.917943,-85.391812,Chambers County,AL CHAMBERS,34215,01017,17,Chambers,,y,1,0
+Walker,Alabama,AL,33.791571,-87.301092,Walker County,AL WALKER,67023,01127,127,Walker,,y,1,0
+Hamilton,Ohio,OH,39.196927,-84.544187,Hamilton County,OH HAMILTON,802374,39061,61,Hamilton,,y,19,0
+Hernando,Florida,FL,28.567911,-82.464835,Hernando County,FL HERNANDO,172778,12053,53,Hernando,,y,5,0
+Lancaster,Pennsylvania,PA,40.041992,-76.250198,Lancaster County,PA LANCASTER,519445,42071,71,Lancaster,,y,6,0
+Lebanon,Pennsylvania,PA,40.367344,-76.458009,Lebanon County,PA LEBANON,133568,42075,75,Lebanon,,y,3,0
+Richland,Ohio,OH,40.774167,-82.542715,Richland County,OH RICHLAND,124475,39139,139,Richland,,y,1,0
+Clinton,Michigan,MI,42.950455,-84.591695,Clinton County,MI CLINTON,75382,26037,37,Clinton,,y,2,0
+Custer,Oklahoma,OK,35.645601,-98.997386,Custer County,OK CUSTER,27469,40039,39,Custer,,y,1,0
+Grady,Oklahoma,OK,35.021058,-97.88689,Grady County,OK GRADY,52431,40051,51,Grady,,y,1,0
+Logan,Oklahoma,OK,35.914151,-97.450764,Logan County,OK LOGAN,41848,40083,83,Logan,,y,1,0
+McClain,Oklahoma,OK,35.016414,-97.449811,McClain County,OK MCCLAIN,34506,40087,87,McClain,,y,1,0
+Washington,Oklahoma,OK,36.70438,-95.906155,Washington County,OK WASHINGTON,50976,40147,147,Washington,,y,2,0
+Westmoreland,Pennsylvania,PA,40.311068,-79.466688,Westmoreland County,PA WESTMORELAND,365169,42129,129,Westmoreland,,y,4,0
+Early,Georgia,GA,31.324191,-84.906723,Early County,GA EARLY,11008,13099,99,Early,,y,2,1
+Glynn,Georgia,GA,31.212746,-81.496517,Glynn County,GA GLYNN,79626,13127,127,Glynn,,y,3,0
+Laurens,Georgia,GA,32.39322,-82.926317,Laurens County,GA LAURENS,48434,13175,175,Laurens,,y,2,0
+Rockdale,Georgia,GA,33.652081,-84.02637,Rockdale County,GA ROCKDALE,85215,13247,247,Rockdale,,y,2,0
+Bibb,Georgia,GA,32.808844,-83.694193,Bibb County,GA BIBB,155547,13021,21,Bibb,,y,1,0
+Peach,Georgia,GA,32.571324,-83.831978,Peach County,GA PEACH,27695,13225,225,Peach,,y,3,0
+Sussex,New Jersey,NJ,41.137424,-74.691855,Sussex County,NJ SUSSEX,149265,34037,37,Sussex,,y,12,0
+Cape May,New Jersey,NJ,39.086142,-74.847716,Cape May County,NJ CAPE MAY,97265,34009,9,Cape May,,y,2,0
+Teton,Wyoming,WY,44.04932,-110.588102,Teton County,WY TETON,21294,56039,39,Teton,,y,2,0
+Sebastian,Arkansas,AR,35.196981,-94.274989,Sebastian County,AR SEBASTIAN,125744,05131,131,Sebastian,,y,1,0
+Pope,Arkansas,AR,35.455297,-93.031535,Pope County,AR POPE,61754,05115,115,Pope,,y,1,0
+DeWitt,Texas,TX,29.082342,-97.361656,DeWitt County,TX DEWITT,20097,48123,123,DeWitt,,y,1,0
+Johnson,Texas,TX,32.379511,-97.364823,Johnson County,TX JOHNSON,150934,48251,251,Johnson,,y,2,0
+McLennan,Texas,TX,31.549493,-97.201472,McLennan County,TX MCLENNAN,234906,48309,309,McLennan,,y,16,0
+Williamson,Texas,TX,30.64903,-97.605069,Williamson County,TX WILLIAMSON,422679,48491,491,Williamson,,y,9,0
+Wicomico,Maryland,MD,38.367389,-75.632206,Wicomico County,MD WICOMICO,98733,24045,45,Wicomico,,y,2,0
+Mower,Minnesota,MN,43.666249,-92.759514,Mower County,MN MOWER,39163,27099,99,Mower,,y,6,0
+Scott,Minnesota,MN,44.651932,-93.534553,Scott County,MN SCOTT,129928,27139,139,Scott,,y,3,0
+Wadena,Minnesota,MN,46.586784,-94.988331,Wadena County,MN WADENA,13843,27159,159,Wadena,,y,1,0
+Cherokee,Kansas,KS,37.169392,-94.845698,Cherokee County,KS CHEROKEE,21603,20021,21,Cherokee,,y,1,0
+Morris,Kansas,KS,38.687696,-96.644905,Morris County,KS MORRIS,5923,20127,127,Morris,,y,2,0
+Linn,Kansas,KS,38.216549,-94.844932,Linn County,KS LINN,9656,20107,107,Linn,,y,1,0
+Montgomery,Ohio,OH,39.755218,-84.290545,Montgomery County,OH MONTGOMERY,535153,39113,113,Montgomery,,y,5,0
+Bayfield,Wisconsin,WI,46.634199,-91.177282,Bayfield County,WI BAYFIELD,15014,55007,7,Bayfield,,y,1,0
+Calumet,Wisconsin,WI,44.07841,-88.212132,Calumet County,WI CALUMET,48971,55015,15,Calumet,,y,1,0
+Columbia,Wisconsin,WI,43.471882,-89.330472,Columbia County,WI COLUMBIA,56833,55021,21,Columbia,,y,5,0
+Ozaukee,Wisconsin,WI,43.360715,-87.496553,Ozaukee County,WI OZAUKEE,86395,55089,89,Ozaukee,,y,13,1
+Sauk,Wisconsin,WI,43.427998,-89.943329,Sauk County,WI SAUK,61976,55111,111,Sauk,,y,2,0
+Walworth,Wisconsin,WI,42.66811,-88.541731,Walworth County,WI WALWORTH,102228,55127,127,Walworth,,y,3,0
+Unknown,Nevada,NV,,,,,,,,Unknown,,y,36,0
+Cache,Utah,UT,41.734225,-111.744581,Cache County,UT CACHE,112656,49005,5,Cache,,y,2,0
+Cumberland,Tennessee,TN,35.952398,-84.994761,Cumberland County,TN CUMBERLAND,56053,47035,35,Cumberland,,y,2,0
+Dyer,Tennessee,TN,36.054196,-89.398306,Dyer County,TN DYER,38335,47045,45,Dyer,,y,2,0
+Montgomery,Tennessee,TN,36.500354,-87.380887,Montgomery County,TN MONTGOMERY,172331,47125,125,Montgomery,,y,3,0
+Wilson,Tennessee,TN,36.148476,-86.29021,Wilson County,TN WILSON,113993,47189,189,Wilson,,y,3,0
+Washington,Tennessee,TN,36.295665,-82.495037,Washington County,TN WASHINGTON,122979,47179,179,Washington,,y,2,0
+Unknown,Tennessee,TN,,,,,,,,Unknown,,y,28,0
+Eaton,Michigan,MI,42.589614,-84.846524,Eaton County,MI EATON,107759,26045,45,Eaton,,y,2,0
+Livingston,Michigan,MI,42.602532,-83.911718,Livingston County,MI LIVINGSTON,180967,26093,93,Livingston,,y,8,0
+Midland,Michigan,MI,43.648378,-84.379219,Midland County,MI MIDLAND,83629,26111,111,Midland,,y,5,0
+San Miguel,New Mexico,NM,35.476876,-104.803515,San Miguel County,NM SAN MIGUEL,29393,35047,47,San Miguel,,y,1,0
+Genesee,Michigan,MI,43.021077,-83.706372,Genesee County,MI GENESEE,425790,26049,49,Genesee,,y,14,0
+Benton,Arkansas,AR,36.337825,-94.256187,Benton County,AR BENTON,221339,05007,7,Benton,,y,1,0
+Boone,Arkansas,AR,36.304308,-93.079204,Boone County,AR BOONE,36903,05009,9,Boone,,y,1,0
+Searcy,Arkansas,AR,35.90966,-92.699351,Searcy County,AR SEARCY,8195,05129,129,Searcy,,y,1,0
+Van Buren,Arkansas,AR,35.582959,-92.515977,Van Buren County,AR VAN BUREN,17295,05141,141,Van Buren,,y,1,0
+Polk,Arkansas,AR,34.490915,-94.230884,Polk County,AR POLK,20662,05113,113,Polk,,y,1,0
+Greene,Arkansas,AR,36.119922,-90.565241,Greene County,AR GREENE,42090,05055,55,Greene,,y,1,0
+Independence,Arkansas,AR,35.737499,-91.559942,Independence County,AR INDEPENDENCE,36647,05063,63,Independence,,y,1,0
+Craighead,Arkansas,AR,35.828268,-90.630411,Craighead County,AR CRAIGHEAD,96443,05031,31,Craighead,,y,1,0
+Poinsett,Arkansas,AR,35.568981,-90.680595,Poinsett County,AR POINSETT,24583,05111,111,Poinsett,,y,1,0
+Crittenden,Arkansas,AR,35.211878,-90.315331,Crittenden County,AR CRITTENDEN,50902,05035,35,Crittenden,,y,1,0
+Grant,Arkansas,AR,34.288063,-92.423984,Grant County,AR GRANT,17853,05053,53,Grant,,y,1,0
+Sevier,Arkansas,AR,33.994608,-94.24329,Sevier County,AR SEVIER,17058,05133,133,Sevier,,y,1,0
+Clark,Arkansas,AR,34.053312,-93.176205,Clark County,AR CLARK,22995,05019,19,Clark,,y,1,0
+Crane,Texas,TX,31.422796,-102.487774,Crane County,TX CRANE,4375,48103,103,Crane,,y,1,0
+Tolland,Connecticut,CT,41.858076,-72.340977,Tolland County,CT TOLLAND,152691,09013,13,Tolland,,y,14,2
+Windham,Connecticut,CT,41.824999,-71.990702,Windham County,CT WINDHAM,118428,09015,15,Windham,,y,1,0
+Abbeville,South Carolina,SC,34.213809,-82.46046,Abbeville County,SC ABBEVILLE,25417,45001,1,Abbeville,,y,1,0
+Dorchester,South Carolina,SC,33.082186,-80.404697,Dorchester County,SC DORCHESTER,136555,45035,35,Dorchester,,y,1,0
+Saluda,South Carolina,SC,34.005278,-81.727903,Saluda County,SC SALUDA,19875,45081,81,Saluda,,y,1,0
+Effingham,Georgia,GA,32.361711,-81.343337,Effingham County,GA EFFINGHAM,52250,13103,103,Effingham,,y,2,0
+Kenai Peninsula Borough,Alaska,AK,60.366373,-152.321973,Kenai Peninsula Borough,AK KENAI PENINSULA BOROUGH,55400,02122,122,Kenai Peninsula Borough,,y,3,0
+Hampshire,Massachusetts,MA,42.339459,-72.663694,Hampshire County,MA HAMPSHIRE,158080,25015,15,Hampshire,,y,4,0
+Mobile,Alabama,AL,30.684573,-88.196568,Mobile County,AL MOBILE,412992,01097,97,Mobile,,y,2,0
+Muscatine,Iowa,IA,41.483776,-91.118699,Muscatine County,IA MUSCATINE,42745,19139,139,Muscatine,,y,2,0
+Dubuque,Iowa,IA,42.463481,-90.878771,Dubuque County,IA DUBUQUE,93653,19061,61,Dubuque,,y,4,0
+Pulaski,Kentucky,KY,37.108312,-84.579986,Pulaski County,KY PULASKI,63063,21199,199,Pulaski,,y,2,0
+St. Landry,Louisiana,LA,30.583441,-91.989274,St. Landry Parish,LA ST. LANDRY,83384,22097,97,St. Landry,,y,3,0
+Assumption,Louisiana,LA,29.899884,-91.050528,Assumption Parish,LA ASSUMPTION,23421,22007,7,Assumption,,y,1,0
+Calcasieu,Louisiana,LA,30.229559,-93.358015,Calcasieu Parish,LA CALCASIEU,192768,22019,19,Calcasieu,,y,4,0
+Iberia,Louisiana,LA,29.606013,-91.842706,Iberia Parish,LA IBERIA,73240,22045,45,Iberia,,y,2,0
+Iberville,Louisiana,LA,30.288394,-91.36315,Iberville Parish,LA IBERVILLE,33387,22047,47,Iberville,,y,2,0
+Livingston,Louisiana,LA,30.440419,-90.727474,Livingston Parish,LA LIVINGSTON,128026,22063,63,Livingston,,y,2,0
+Webster,Louisiana,LA,32.732152,-93.339825,Webster Parish,LA WEBSTER,41207,22119,119,Webster,,y,1,0
+Benton,Washington,WA,46.228072,-119.516864,Benton County,WA BENTON,175177,53005,5,Benton,,y,7,2
+Clallam,Washington,WA,48.113009,-123.930611,Clallam County,WA CLALLAM,71404,53009,9,Clallam,,y,4,0
+Indian River,Florida,FL,27.700638,-80.574803,Indian River County,FL INDIAN RIVER,138028,12061,61,Indian River,,y,8,0
+Jackson,Florida,FL,30.787812,-85.210374,Jackson County,FL JACKSON,49746,12063,63,Jackson,,y,1,0
+Martin,Florida,FL,27.079954,-80.398211,Martin County,FL MARTIN,146318,12085,85,Martin,,y,2,0
+Grand,Colorado,CO,40.123289,-106.095876,Grand County,CO GRAND,14843,08049,49,Grand,,y,2,0
+Morgan,Colorado,CO,40.262353,-103.807092,Morgan County,CO MORGAN,28159,08087,87,Morgan,,y,2,0
+Christian,Kentucky,KY,36.893388,-87.493554,Christian County,KY CHRISTIAN,73955,21047,47,Christian,,y,1,0
+Daviess,Kentucky,KY,37.731671,-87.087139,Daviess County,KY DAVIESS,96656,21059,59,Daviess,,y,1,0
+Unknown,Kentucky,KY,,,,,,,,Unknown,,y,32,0
+Van Zandt,Texas,TX,32.558948,-95.836391,Van Zandt County,TX VAN ZANDT,52579,48467,467,Van Zandt,,y,1,0
+Sedgwick,Kansas,KS,37.683807,-97.459451,Sedgwick County,KS SEDGWICK,498365,20173,173,Sedgwick,,y,2,0
+Monongalia,West Virginia,WV,39.633645,-80.059074,Monongalia County,WV MONONGALIA,96189,54061,61,Monongalia,,y,2,0
+Henderson,Kentucky,KY,37.792542,-87.572577,Henderson County,KY HENDERSON,46250,21101,101,Henderson,,y,2,0
+Tucker,West Virginia,WV,39.111175,-79.559968,Tucker County,WV TUCKER,7141,54093,93,Tucker,,y,2,0
+Nemaha,Nebraska,NE,40.387448,-95.850954,Nemaha County,NE NEMAHA,7248,31127,127,Nemaha,,y,1,0
+Santa Cruz,Arizona,AZ,31.525904,-110.84519,Santa Cruz County,AZ SANTA CRUZ,47420,04023,23,Santa Cruz,,y,1,0
+Yavapai,Arizona,AZ,34.630044,-112.573745,Yavapai County,AZ YAVAPAI,211033,04025,25,Yavapai,,y,3,0
+Imperial,California,CA,33.040816,-115.355395,Imperial County,CA IMPERIAL,174528,06025,25,Imperial,,y,4,0
+Worcester,Maryland,MD,38.222133,-75.309931,Worcester County,MD WORCESTER,51454,24047,47,Worcester,,y,2,0
+Allen,Indiana,IN,41.091855,-85.07223,Allen County,IN ALLEN,355329,18003,3,Allen,,y,4,0
+Grant,Indiana,IN,40.515758,-85.654946,Grant County,IN GRANT,70061,18053,53,Grant,,y,2,0
+Shelby,Indiana,IN,39.524135,-85.792174,Shelby County,IN SHELBY,44436,18145,145,Shelby,,y,1,0
+Vanderburgh,Indiana,IN,38.02007,-87.586166,Vanderburgh County,IN VANDERBURGH,179703,18163,163,Vanderburgh,,y,1,0
+Vigo,Indiana,IN,39.429143,-87.390375,Vigo County,IN VIGO,107848,18167,167,Vigo,,y,2,0
+Christian,Missouri,MO,36.969739,-93.187614,Christian County,MO CHRISTIAN,77422,29043,43,Christian,,y,2,0
+Kansas City,Missouri,MO,39.110345,-94.539923,Kansas City,,,,,Kansas City,TRUE,y,13,0
+Pulaski,Missouri,MO,37.824835,-92.207022,Pulaski County,MO PULASKI,52274,29169,169,Pulaski,,y,1,0
+Scott,Missouri,MO,37.047793,-89.568098,Scott County,MO SCOTT,39191,29201,201,Scott,,y,1,0
+Adams,Mississippi,MS,31.486218,-91.351781,Adams County,MS ADAMS,32297,28001,1,Adams,,y,1,0
+Franklin,Mississippi,MS,31.477798,-90.895884,Franklin County,MS FRANKLIN,8118,28037,37,Franklin,,y,3,0
+Humphreys,Mississippi,MS,33.132978,-90.523911,Humphreys County,MS HUMPHREYS,9375,28053,53,Humphreys,,y,1,0
+Lafayette,Mississippi,MS,34.349298,-89.485903,Lafayette County,MS LAFAYETTE,47351,28071,71,Lafayette,,y,5,0
+Lawrence,Mississippi,MS,31.550009,-90.10753,Lawrence County,MS LAWRENCE,12929,28077,77,Lawrence,,y,2,0
+Lee,Mississippi,MS,34.288965,-88.680887,Lee County,MS LEE,82910,28081,81,Lee,,y,6,0
+Marshall,Mississippi,MS,34.76619,-89.504231,Marshall County,MS MARSHALL,37144,28093,93,Marshall,,y,3,0
+Pike,Mississippi,MS,31.177517,-90.397725,Pike County,MS PIKE,40404,28113,113,Pike,,y,3,0
+Tippah,Mississippi,MS,34.763618,-88.918819,Tippah County,MS TIPPAH,22232,28139,139,Tippah,,y,7,0
+Rankin,Mississippi,MS,32.262057,-89.946552,Rankin County,MS RANKIN,141617,28121,121,Rankin,,y,7,0
+Oneida,New York,NY,43.242727,-75.434282,Oneida County,NY ONEIDA,234878,36065,65,Oneida,,y,5,0
+Niagara,New York,NY,43.456731,-78.792142,Niagara County,NY NIAGARA,216469,36063,63,Niagara,,y,6,0
+Genesee,New York,NY,43.00091,-78.192778,Genesee County,NY GENESEE,60079,36037,37,Genesee,,y,1,0
+Fulton,New York,NY,43.115609,-74.423678,Fulton County,NY FULTON,55531,36035,35,Fulton,,y,1,0
+Columbia,New York,NY,42.247729,-73.626805,Columbia County,NY COLUMBIA,63096,36021,21,Columbia,,y,5,0
+Monroe,Florida,FL,25.601043,-81.206777,Monroe County,FL MONROE,73090,12087,87,Monroe,,y,1,0
+Clay,Minnesota,MN,46.898377,-96.494901,Clay County,MN CLAY,58999,27027,27,Clay,,y,2,0
+Chisago,Minnesota,MN,45.505444,-92.903849,Chisago County,MN CHISAGO,53887,27025,25,Chisago,,y,1,0
+Fillmore,Minnesota,MN,43.67727,-92.093681,Fillmore County,MN FILLMORE,20866,27045,45,Fillmore,,y,2,0
+Chatham,Georgia,GA,31.974755,-81.091768,Chatham County,GA CHATHAM,265128,13051,51,Chatham,,y,4,0
+Yuma,Arizona,AZ,32.773942,-113.910905,Yuma County,AZ YUMA,195751,04027,27,Yuma,,y,1,0
+Franklin,North Carolina,NC,36.088241,-78.28309,Franklin County,NC FRANKLIN,60619,37069,69,Franklin,,y,4,0
+Garvin,Oklahoma,OK,34.70935,-97.312723,Garvin County,OK GARVIN,27576,40049,49,Garvin,,y,2,0
+Kanawha,West Virginia,WV,38.328061,-81.523522,Kanawha County,WV KANAWHA,193063,54039,39,Kanawha,,y,3,0
+Columbiana,Ohio,OH,40.768462,-80.777231,Columbiana County,OH COLUMBIANA,107841,39029,29,Columbiana,,y,2,0
+Rowan,North Carolina,NC,35.639218,-80.525344,Rowan County,NC ROWAN,138428,37159,159,Rowan,,y,2,0
+Davidson,North Carolina,NC,35.795123,-80.206525,Davidson County,NC DAVIDSON,162878,37057,57,Davidson,,y,1,0
+Orange,North Carolina,NC,36.062499,-79.119355,Orange County,NC ORANGE,133801,37135,135,Orange,,y,5,0
+Pitt,North Carolina,NC,35.591065,-77.372404,Pitt County,NC PITT,168148,37147,147,Pitt,,y,3,0
+Pasquotank,North Carolina,NC,36.265276,-76.260355,Pasquotank County,NC PASQUOTANK,40661,37139,139,Pasquotank,,y,1,0
+Unknown,Georgia,GA,,,,,,,,Unknown,,y,28,0
+Carroll,Georgia,GA,33.582237,-85.080527,Carroll County,GA CARROLL,110527,13045,45,Carroll,,y,14,0
+Terrell,Georgia,GA,31.777191,-84.439446,Terrell County,GA TERRELL,9315,13273,273,Terrell,,y,2,0
+Worth,Georgia,GA,31.551773,-83.84996,Worth County,GA WORTH,21679,13321,321,Worth,,y,2,0
+Heard,Georgia,GA,33.290968,-85.139594,Heard County,GA HEARD,11834,13149,149,Heard,,y,1,0
+Oconee,Georgia,GA,33.834125,-83.437728,Oconee County,GA OCONEE,32808,13219,219,Oconee,,y,1,0
+Turner,Georgia,GA,31.718232,-83.628566,Turner County,GA TURNER,8930,13287,287,Turner,,y,1,0
+Monroe,Georgia,GA,33.017435,-83.922938,Monroe County,GA MONROE,26424,13207,207,Monroe,,y,1,0
+Randolph,Georgia,GA,31.762651,-84.752311,Randolph County,GA RANDOLPH,7719,13243,243,Randolph,,y,1,0
+Douglas,Georgia,GA,33.699317,-84.765944,Douglas County,GA DOUGLAS,132403,13097,97,Douglas,,y,4,0
+Dawson,Georgia,GA,34.442842,-84.173284,Dawson County,GA DAWSON,22330,13085,85,Dawson,,y,1,0
+Muscogee,Georgia,GA,32.510197,-84.874946,Muscogee County,GA MUSCOGEE,189885,13215,215,Muscogee,,y,2,0
+Spalding,Georgia,GA,33.262389,-84.286067,Spalding County,GA SPALDING,64073,13255,255,Spalding,,y,2,0
+Barrow,Georgia,GA,33.992009,-83.712303,Barrow County,GA BARROW,69367,13013,13,Barrow,,y,2,1
+Miller,Georgia,GA,31.162908,-84.730386,Miller County,GA MILLER,6125,13201,201,Miller,,y,1,0
+Tift,Georgia,GA,31.457003,-83.525931,Tift County,GA TIFT,40118,13277,277,Tift,,y,2,0
+Stevens,Washington,WA,48.390648,-117.854897,Stevens County,WA STEVENS,43531,53065,65,Stevens,,y,1,0
+Centre,Pennsylvania,PA,40.90916,-77.84783,Centre County,PA CENTRE,153990,42027,27,Centre,,y,1,0
+Erie,Pennsylvania,PA,42.117952,-80.096386,Erie County,PA ERIE,280566,42049,49,Erie,,y,2,0
+Franklin,Pennsylvania,PA,39.926686,-77.724485,Franklin County,PA FRANKLIN,149618,42055,55,Franklin,,y,1,0
+Potter,Pennsylvania,PA,41.748222,-77.894735,Potter County,PA POTTER,17457,42105,105,Potter,,y,1,0
+Unknown,Arkansas,AR,,,,,,,,Unknown,,y,27,0
+Ashtabula,Ohio,OH,41.906644,-80.745641,Ashtabula County,OH ASHTABULA,101497,39007,7,Ashtabula,,y,2,0
+Marion,Ohio,OH,40.588208,-83.172927,Marion County,OH MARION,66501,39101,101,Marion,,y,1,0
+Union,Ohio,OH,40.295901,-83.367042,Union County,OH UNION,52300,39159,159,Union,,y,1,0
+Warren,Ohio,OH,39.425652,-84.169906,Warren County,OH WARREN,212693,39165,165,Warren,,y,3,0
+Accomack,Virginia,VA,37.765944,-75.757807,Accomack County,VA ACCOMACK,33164,51001,1,Accomack,,y,1,0
+Gloucester,Virginia,VA,37.403541,-76.523505,Gloucester County,VA GLOUCESTER,36858,51073,73,Gloucester,,y,2,0
+Newport News city,Virginia,VA,37.075978,-76.521719,Newport News city,VA NEWPORT NEWS CITY,180719,51700,700,Newport News city,,y,2,0
+Norfolk city,Virginia,VA,36.923015,-76.244641,Norfolk city,VA NORFOLK CITY,242803,51710,710,Norfolk city,,y,3,0
+Portsmouth city,Virginia,VA,36.85943,-76.356269,Portsmouth city,VA PORTSMOUTH CITY,95535,51740,740,Portsmouth city,,y,1,0
+Doña Ana,New Mexico,NM,32.350912,-106.832182,Do–a Ana County,NM DO–A ANA,209233,35013,13,Do–a Ana,,y,4,0
+McKinley,New Mexico,NM,35.573732,-108.255307,McKinley County,NM MCKINLEY,71492,35031,31,McKinley,,y,2,0
+Cumberland,New Jersey,NJ,39.328387,-75.121644,Cumberland County,NJ CUMBERLAND,156898,34011,11,Cumberland,,y,1,0
+Grant,Oregon,OR,44.496326,-119.014057,Grant County,OR GRANT,7445,41023,23,Grant,,y,1,0
+Union,Oregon,OR,45.304047,-117.999136,Union County,OR UNION,25748,41061,61,Union,,y,1,0
+New London,Connecticut,CT,41.47863,-72.103452,New London County,CT NEW LONDON,274055,09011,11,New London,,y,3,0
+Chippewa,Wisconsin,WI,45.069092,-91.283505,Chippewa County,WI CHIPPEWA,62415,55017,17,Chippewa,,y,1,0
+Douglas,Wisconsin,WI,46.463316,-91.892579,Douglas County,WI DOUGLAS,44159,55031,31,Douglas,,y,1,0
+Dunn,Wisconsin,WI,44.947741,-91.89772,Dunn County,WI DUNN,43857,55033,33,Dunn,,y,1,0
+Green,Wisconsin,WI,42.677728,-89.605639,Green County,WI GREEN,36842,55045,45,Green,,y,1,0
+Jefferson,Wisconsin,WI,43.013807,-88.773985,Jefferson County,WI JEFFERSON,83686,55055,55,Jefferson,,y,2,0
+Marathon,Wisconsin,WI,44.898036,-89.757823,Marathon County,WI MARATHON,134063,55073,73,Marathon,,y,1,0
+Rock,Wisconsin,WI,42.669931,-89.075119,Rock County,WI ROCK,160331,55105,105,Rock,,y,3,0
+St. Croix,Wisconsin,WI,45.028959,-92.447284,St. Croix County,WI ST. CROIX,84345,55109,109,St. Croix,,y,2,0
+Riley,Kansas,KS,39.291211,-96.727489,Riley County,KS RILEY,71115,20161,161,Riley,,y,1,0
+McLean,Illinois,IL,40.494559,-88.844539,McLean County,IL MCLEAN,169572,17113,113,McLean,,y,6,1
+Adams,Illinois,IL,39.986052,-91.194961,Adams County,IL ADAMS,67103,17001,1,Adams,,y,1,0
+Christian,Illinois,IL,39.545524,-89.279593,Christian County,IL CHRISTIAN,34800,17021,21,Christian,,y,1,0
+Aiken,South Carolina,SC,33.549317,-81.63387,Aiken County,SC AIKEN,160099,45003,3,Aiken,,y,1,0
+Berkeley,South Carolina,SC,33.2077,-79.953655,Berkeley County,SC BERKELEY,177843,45015,15,Berkeley,,y,2,0
+Clarendon,South Carolina,SC,33.664682,-80.217889,Clarendon County,SC CLARENDON,34971,45027,27,Clarendon,,y,1,0
+Darlington,South Carolina,SC,34.332185,-79.962115,Darlington County,SC DARLINGTON,68681,45031,31,Darlington,,y,3,0
+Florence,South Carolina,SC,34.028535,-79.710233,Florence County,SC FLORENCE,136885,45041,41,Florence,,y,1,1
+Orangeburg,South Carolina,SC,33.436135,-80.802913,Orangeburg County,SC ORANGEBURG,92501,45075,75,Orangeburg,,y,3,0
+Pickens,South Carolina,SC,34.887362,-82.725368,Pickens County,SC PICKENS,119224,45077,77,Pickens,,y,1,0
+Sumter,South Carolina,SC,33.916046,-80.382472,Sumter County,SC SUMTER,107456,45085,85,Sumter,,y,3,0
+Jackson,West Virginia,WV,38.834234,-81.677717,Jackson County,WV JACKSON,29211,54035,35,Jackson,,y,1,0
+Kootenai,Idaho,ID,47.677113,-116.694918,Kootenai County,ID KOOTENAI,138494,16055,55,Kootenai,,y,3,0
+Carteret,North Carolina,NC,34.858313,-76.526967,Carteret County,NC CARTERET,66469,37031,31,Carteret,,y,2,0
+Calloway,Kentucky,KY,36.620978,-88.274086,Calloway County,KY CALLOWAY,37191,21035,35,Calloway,,y,1,0
+Ramsey,North Dakota,ND,48.265551,-98.737329,Ramsey County,ND RAMSEY,11451,38071,71,Ramsey,,y,1,0
+Pierce,North Dakota,ND,48.238883,-99.966497,Pierce County,ND PIERCE,4357,38069,69,Pierce,,y,2,0
+Stanly,North Carolina,NC,35.310523,-80.254355,Stanly County,NC STANLY,60585,37167,167,Stanly,,y,1,0
+Campbell,Wyoming,WY,44.241321,-105.552029,Campbell County,WY CAMPBELL,46133,56005,5,Campbell,,y,1,0
+Cheshire,New Hampshire,NH,42.925455,-72.248217,Cheshire County,NH CHESHIRE,77117,33005,5,Cheshire,,y,1,0
+Cullman,Alabama,AL,34.131923,-86.869267,Cullman County,AL CULLMAN,80406,01043,43,Cullman,,y,2,0
+Jackson,Alabama,AL,34.763522,-85.9774,Jackson County,AL JACKSON,53227,01071,71,Jackson,,y,1,0
+Lamar,Alabama,AL,33.787085,-88.087431,Lamar County,AL LAMAR,14564,01075,75,Lamar,,y,1,0
+Lauderdale,Alabama,AL,34.904122,-87.650997,Lauderdale County,AL LAUDERDALE,92709,01077,77,Lauderdale,,y,2,0
+Washington,Alabama,AL,31.406974,-88.202078,Washington County,AL WASHINGTON,17581,01129,129,Washington,,y,1,0
+Broomfield,Colorado,CO,39.953382,-105.052125,Broomfield County,CO BROOMFIELD,55889,08014,14,Broomfield,,y,1,0
+Crowley,Colorado,CO,38.321956,-103.787562,Crowley County,CO CROWLEY,5823,08025,25,Crowley,,y,1,0
+San Miguel,Colorado,CO,38.009374,-108.427326,San Miguel County,CO SAN MIGUEL,7359,08113,113,San Miguel,,y,1,0
+Park,Colorado,CO,39.118914,-105.717648,Park County,CO PARK,16206,08093,93,Park,,y,1,0
+Cowlitz,Washington,WA,46.185923,-122.658682,Cowlitz County,WA COWLITZ,102410,53015,15,Cowlitz,,y,3,0
+Gadsden,Florida,FL,30.579169,-84.612783,Gadsden County,FL GADSDEN,46389,12039,39,Gadsden,,y,1,0
+Rutland,Vermont,VT,43.580844,-73.038196,Rutland County,VT RUTLAND,61642,50021,21,Rutland,,y,3,0
+Addison,Vermont,VT,44.031248,-73.141581,Addison County,VT ADDISON,36821,50001,1,Addison,,y,3,0
+Canyon,Idaho,ID,43.623051,-116.708527,Canyon County,ID CANYON,188923,16027,27,Canyon,,y,1,0
+Fremont,Idaho,ID,44.218091,-111.484429,Fremont County,ID FREMONT,13242,16043,43,Fremont,,y,1,0
+Pickens,Georgia,GA,34.456621,-84.490256,Pickens County,GA PICKENS,29431,13227,227,Pickens,,y,2,0
+Sumter,Georgia,GA,32.042203,-84.204283,Sumter County,GA SUMTER,32819,13261,261,Sumter,,y,2,0
+Lamar,Georgia,GA,33.07446,-84.146721,Lamar County,GA LAMAR,18317,13171,171,Lamar,,y,3,0
+Lincoln,Georgia,GA,33.792151,-82.448299,Lincoln County,GA LINCOLN,7996,13181,181,Lincoln,,y,1,0
+Catahoula,Louisiana,LA,31.666517,-91.846703,Catahoula Parish,LA CATAHOULA,10407,22025,25,Catahoula,,y,1,1
+Rapides,Louisiana,LA,31.193204,-92.535953,Rapides Parish,LA RAPIDES,131613,22079,79,Rapides,,y,3,0
+De Soto,Louisiana,LA,32.059248,-93.740797,De Soto Parish,LA DE SOTO,26656,22031,31,De Soto,,y,2,0
+Tangipahoa,Louisiana,LA,30.621581,-90.406633,Tangipahoa Parish,LA TANGIPAHOA,121097,22105,105,Tangipahoa,,y,3,0
+Anderson,Tennessee,TN,36.116731,-84.195418,Anderson County,TN ANDERSON,75129,47001,1,Anderson,,y,1,0
+Blount,Tennessee,TN,35.688185,-83.922973,Blount County,TN BLOUNT,123010,47009,9,Blount,,y,1,0
+Bradley,Tennessee,TN,35.153914,-84.859414,Bradley County,TN BRADLEY,98963,47011,11,Bradley,,y,2,0
+Dickson,Tennessee,TN,36.145533,-87.364155,Dickson County,TN DICKSON,49666,47043,43,Dickson,,y,4,0
+Greene,Tennessee,TN,36.178998,-82.847746,Greene County,TN GREENE,68831,47059,59,Greene,,y,2,0
+Hamblen,Tennessee,TN,36.218397,-83.266071,Hamblen County,TN HAMBLEN,62544,47063,63,Hamblen,,y,2,0
+Maury,Tennessee,TN,35.615696,-87.077763,Maury County,TN MAURY,80956,47119,119,Maury,,y,2,0
+Tipton,Tennessee,TN,35.500297,-89.763708,Tipton County,TN TIPTON,61081,47167,167,Tipton,,y,5,0
+Buffalo,Nebraska,NE,40.855226,-99.074983,Buffalo County,NE BUFFALO,46102,31019,19,Buffalo,,y,2,0
+San Juan,Washington,WA,48.508861,-123.100616,San Juan County,WA SAN JUAN,15769,53055,55,San Juan,,y,1,0
+Natrona,Wyoming,WY,42.973641,-106.764877,Natrona County,WY NATRONA,75450,56025,25,Natrona,,y,1,0
+Dunklin,Missouri,MO,36.153025,-90.062254,Dunklin County,MO DUNKLIN,31953,29069,69,Dunklin,,y,1,0
+Unknown,Missouri,MO,,,,,,,,Unknown,,y,1,0
+Lancaster,Nebraska,NE,40.783547,-96.688658,Lancaster County,NE LANCASTER,285407,31109,109,Lancaster,,y,2,0
+Cameron,Texas,TX,26.102923,-97.478958,Cameron County,TX CAMERON,406220,48061,61,Cameron,,y,6,0
+Ellis,Texas,TX,32.347279,-96.798336,Ellis County,TX ELLIS,149610,48139,139,Ellis,,y,3,0
+Fannin,Texas,TX,33.591161,-96.104988,Fannin County,TX FANNIN,33915,48147,147,Fannin,,y,1,0
+Hockley,Texas,TX,33.605932,-102.343398,Hockley County,TX HOCKLEY,22935,48219,219,Hockley,,y,2,0
+Roosevelt,Montana,MT,48.282747,-104.99517,Roosevelt County,MT ROOSEVELT,10425,30085,85,Roosevelt,,y,1,0
+Madison,Montana,MT,45.319288,-111.917328,Madison County,MT MADISON,7691,30057,57,Madison,,y,1,0
+Flathead,Montana,MT,48.314696,-114.054319,Flathead County,MT FLATHEAD,90928,30029,29,Flathead,,y,2,0
+Broadwater,Montana,MT,46.334476,-111.496103,Broadwater County,MT BROADWATER,5612,30007,7,Broadwater,,y,1,0
+Elkhart,Indiana,IN,41.600693,-85.863986,Elkhart County,IN ELKHART,197559,18039,39,Elkhart,,y,1,0
+Miami,Indiana,IN,40.772881,-86.044258,Miami County,IN MIAMI,36903,18103,103,Miami,,y,1,0
+Hancock,Indiana,IN,39.822604,-85.772904,Hancock County,IN HANCOCK,70002,18059,59,Hancock,,y,2,0
+Greene,Indiana,IN,39.0486,-87.005245,Greene County,IN GREENE,33165,18055,55,Greene,,y,1,0
+Harrison,Indiana,IN,38.18644,-86.103681,Harrison County,IN HARRISON,39364,18061,61,Harrison,,y,1,0
+Delaware,Indiana,IN,40.227165,-85.398856,Delaware County,IN DELAWARE,117671,18035,35,Delaware,,y,2,1
+Evangeline,Louisiana,LA,30.720693,-92.404086,Evangeline Parish,LA EVANGELINE,33984,22039,39,Evangeline,,y,2,0
+Steuben,New York,NY,42.266725,-77.385525,Steuben County,NY STEUBEN,98990,36101,101,Steuben,,y,3,0
+Highlands,Florida,FL,27.342627,-81.340921,Highlands County,FL HIGHLANDS,98786,12055,55,Highlands,,y,1,0
+Putnam,Florida,FL,29.606006,-81.740894,Putnam County,FL PUTNAM,74364,12107,107,Putnam,,y,2,0
+Bay,Florida,FL,30.237563,-85.631348,Bay County,FL BAY,168852,12005,5,Bay,,y,1,0
+Dodge,Minnesota,MN,44.020706,-92.869353,Dodge County,MN DODGE,20087,27039,39,Dodge,,y,2,0
+Jackson,Minnesota,MN,43.673025,-95.149704,Jackson County,MN JACKSON,10266,27063,63,Jackson,,y,1,0
+St. Louis,Minnesota,MN,47.583852,-92.463645,St. Louis County,MN ST. LOUIS,200226,27137,137,St. Louis,,y,1,0
+Steele,Minnesota,MN,44.015261,-93.220453,Steele County,MN STEELE,36576,27147,147,Steele,,y,3,0
+Wabasha,Minnesota,MN,44.289693,-92.23334,Wabasha County,MN WABASHA,21676,27157,157,Wabasha,,y,1,0
+Unknown,Minnesota,MN,,,,,,,,Unknown,,y,1,0
+Butler,Pennsylvania,PA,40.913834,-79.91896,Butler County,PA BUTLER,183862,42019,19,Butler,,y,1,0
+Caroline,Maryland,MD,38.871531,-75.831631,Caroline County,MD CAROLINE,33066,24011,11,Caroline,,y,1,0
+Marion,Alabama,AL,34.138219,-87.881551,Marion County,AL MARION,30776,01093,93,Marion,,y,1,0
+Fayette,Iowa,IA,42.86445,-91.839373,Fayette County,IA FAYETTE,20880,19065,65,Fayette,,y,1,0
+Henry,Iowa,IA,40.985864,-91.54427,Henry County,IA HENRY,20145,19087,87,Henry,,y,1,0
+Linn,Iowa,IA,42.077951,-91.597674,Linn County,IA LINN,211226,19113,113,Linn,,y,4,0
+Story,Iowa,IA,42.037538,-93.466093,Story County,IA STORY,89542,19169,169,Story,,y,1,0
+Montour,Pennsylvania,PA,41.029261,-76.665259,Montour County,PA MONTOUR,18267,42093,93,Montour,,y,1,0
+Somerset,Maryland,MD,38.07445,-75.853323,Somerset County,MD SOMERSET,26470,24039,39,Somerset,,y,1,0
+Sagadahoc,Maine,ME,43.916694,-69.843994,Sagadahoc County,ME SAGADAHOC,35293,23023,23,Sagadahoc,,y,3,0
+Deaf Smith,Texas,TX,34.940766,-102.607564,Deaf Smith County,TX DEAF SMITH,19372,48117,117,Deaf Smith,,y,1,0
+Brown,Texas,TX,31.764103,-98.99847,Brown County,TX BROWN,38106,48049,49,Brown,,y,2,0
+Castro,Texas,TX,34.533621,-102.258786,Castro County,TX CASTRO,8062,48069,69,Castro,,y,1,0
+Midland,Texas,TX,31.870896,-102.024326,Midland County,TX MIDLAND,136872,48329,329,Midland,,y,1,0
+Oldham,Texas,TX,35.401921,-102.59762,Oldham County,TX OLDHAM,2052,48359,359,Oldham,,y,1,0
+Potter,Texas,TX,35.398675,-101.893804,Potter County,TX POTTER,121073,48375,375,Potter,,y,2,0
+Clermont,Ohio,OH,39.052084,-84.149614,Clermont County,OH CLERMONT,197363,39025,25,Clermont,,y,5,0
+Defiance,Ohio,OH,41.321679,-84.486433,Defiance County,OH DEFIANCE,39037,39039,39,Defiance,,y,2,0
+Erie,Ohio,OH,41.554006,-82.525897,Erie County,OH ERIE,77079,39043,43,Erie,,y,1,1
+Licking,Ohio,OH,40.093609,-82.481251,Licking County,OH LICKING,166492,39089,89,Licking,,y,1,0
+Monterey,California,CA,36.240107,-121.315573,Monterey County,CA MONTEREY,415057,06053,53,Monterey,,y,11,1
+Carroll,Tennessee,TN,35.967896,-88.451659,Carroll County,TN CARROLL,28522,47017,17,Carroll,,y,2,0
+Cocke,Tennessee,TN,35.916198,-83.119223,Cocke County,TN COCKE,35662,47029,29,Cocke,,y,1,0
+Fayette,Tennessee,TN,35.196993,-89.413803,Fayette County,TN FAYETTE,38413,47047,47,Fayette,,y,3,0
+Monroe,Tennessee,TN,35.447666,-84.249786,Monroe County,TN MONROE,44519,47123,123,Monroe,,y,3,0
+Putnam,Tennessee,TN,36.140807,-85.496928,Putnam County,TN PUTNAM,72321,47141,141,Putnam,,y,6,0
+Roane,Tennessee,TN,35.847472,-84.523861,Roane County,TN ROANE,54181,47145,145,Roane,,y,1,0
+Scott,Tennessee,TN,36.437239,-84.498386,Scott County,TN SCOTT,22228,47151,151,Scott,,y,2,0
+Barry,Michigan,MI,42.582811,-85.31455,Barry County,MI BARRY,59173,26015,15,Barry,,y,1,0
+Berrien,Michigan,MI,41.792639,-86.741822,Berrien County,MI BERRIEN,156813,26021,21,Berrien,,y,3,0
+Calhoun,Michigan,MI,42.24299,-85.012385,Calhoun County,MI CALHOUN,136146,26025,25,Calhoun,,y,2,0
+Clare,Michigan,MI,43.991137,-84.838325,Clare County,MI CLARE,30926,26035,35,Clare,,y,1,0
+Saginaw,Michigan,MI,43.328267,-84.05541,Saginaw County,MI SAGINAW,200169,26145,145,Saginaw,,y,2,0
+Tuscola,Michigan,MI,43.487902,-83.436618,Tuscola County,MI TUSCOLA,55729,26157,157,Tuscola,,y,1,0
+Wexford,Michigan,MI,44.331375,-85.570046,Wexford County,MI WEXFORD,32735,26165,165,Wexford,,y,1,0
+DeKalb,Illinois,IL,41.894612,-88.768991,DeKalb County,IL DEKALB,105160,17037,37,DeKalb,,y,1,0
+Josephine,Oregon,OR,42.385382,-123.597245,Josephine County,OR JOSEPHINE,82713,41033,33,Josephine,,y,1,0
+Apache,Arizona,AZ,35.385845,-109.493747,Apache County,AZ APACHE,71518,04001,1,Apache,,y,3,0
+Cochise,Arizona,AZ,31.881793,-109.75412,Cochise County,AZ COCHISE,131346,04003,3,Cochise,,y,1,0
+Jasper,South Carolina,SC,32.43059,-81.021627,Jasper County,SC JASPER,24777,45053,53,Jasper,,y,1,0
+Colleton,South Carolina,SC,32.83498,-80.655345,Colleton County,SC COLLETON,38892,45029,29,Colleton,,y,2,0
+Dillon,South Carolina,SC,34.390172,-79.374964,Dillon County,SC DILLON,32062,45033,33,Dillon,,y,1,0
+Edgefield,South Carolina,SC,33.776498,-81.968245,Edgefield County,SC EDGEFIELD,26985,45037,37,Edgefield,,y,1,0
+Greenwood,South Carolina,SC,34.155796,-82.127876,Greenwood County,SC GREENWOOD,69661,45047,47,Greenwood,,y,2,0
+Marlboro,South Carolina,SC,34.601805,-79.677942,Marlboro County,SC MARLBORO,28933,45069,69,Marlboro,,y,1,0
+Newberry,South Carolina,SC,34.28973,-81.600053,Newberry County,SC NEWBERRY,37508,45071,71,Newberry,,y,1,0
+Washington,Maryland,MD,39.603621,-77.814671,Washington County,MD WASHINGTON,147430,24043,43,Washington,,y,1,0
+Anderson,Kentucky,KY,38.005396,-84.986417,Anderson County,KY ANDERSON,21421,21005,5,Anderson,,y,1,1
+Spencer,Kentucky,KY,38.026976,-85.321525,Spencer County,KY SPENCER,17061,21215,215,Spencer,,y,1,0
+Madison,Kentucky,KY,37.723528,-84.277008,Madison County,KY MADISON,82916,21151,151,Madison,,y,1,0
+St. Lucie,Florida,FL,27.380775,-80.443364,St. Lucie County,FL ST. LUCIE,277789,12111,111,St. Lucie,,y,3,0
+Baldwin,Georgia,GA,33.059532,-83.255362,Baldwin County,GA BALDWIN,45720,13009,9,Baldwin,,y,2,0
+Elbert,Colorado,CO,39.310817,-104.117928,Elbert County,CO ELBERT,23086,08039,39,Elbert,,y,3,0
+Hinsdale,Colorado,CO,37.811625,-107.383405,Hinsdale County,CO HINSDALE,843,08053,53,Hinsdale,,y,1,0
+Montrose,Colorado,CO,38.413427,-108.263042,Montrose County,CO MONTROSE,41276,08085,85,Montrose,,y,1,0
+Chaffee,Colorado,CO,38.738246,-106.316972,Chaffee County,CO CHAFFEE,17809,08015,15,Chaffee,,y,3,0
+Strafford,New Hampshire,NH,43.293177,-71.035927,Strafford County,NH STRAFFORD,123143,33017,17,Strafford,,y,3,0
+Putnam,West Virginia,WV,38.510513,-81.906109,Putnam County,WV PUTNAM,55486,54079,79,Putnam,,y,1,0
+Marshall,West Virginia,WV,39.854717,-80.671378,Marshall County,WV MARSHALL,33107,54051,51,Marshall,,y,2,0
+Lea,New Mexico,NM,32.795687,-103.413271,Lea County,NM LEA,64727,35025,25,Lea,,y,1,0
+Marion,Florida,FL,29.202805,-82.0431,Marion County,FL MARION,331298,12083,83,Marion,,y,3,0
+Lumpkin,Georgia,GA,34.568149,-83.998827,Lumpkin County,GA LUMPKIN,29966,13187,187,Lumpkin,,y,1,0
+Butte,California,CA,39.665959,-121.601919,Butte County,CA BUTTE,220000,06007,7,Butte,,y,1,0
+Bates,Missouri,MO,38.257217,-94.339246,Bates County,MO BATES,17049,29013,13,Bates,,y,1,0
+Jasper,Missouri,MO,37.200865,-94.338869,Jasper County,MO JASPER,117404,29097,97,Jasper,,y,1,0
+Johnson,Missouri,MO,38.74588,-93.805999,Johnson County,MO JOHNSON,52595,29101,101,Johnson,,y,1,0
+El Dorado,California,CA,38.785532,-120.534398,El Dorado County,CA EL DORADO,181058,06017,17,El Dorado,,y,2,0
+Yuba,California,CA,39.270026,-121.34428,Yuba County,CA YUBA,72155,06115,115,Yuba,,y,2,0
+Ouachita,Louisiana,LA,32.477495,-92.154798,Ouachita Parish,LA OUACHITA,153720,22073,73,Ouachita,,y,4,0
+Avoyelles,Louisiana,LA,31.085094,-91.993797,Avoyelles Parish,LA AVOYELLES,42073,22009,9,Avoyelles,,y,1,0
+Beauregard,Louisiana,LA,30.645018,-93.340253,Beauregard Parish,LA BEAUREGARD,35654,22011,11,Beauregard,,y,1,0
+Bienville,Louisiana,LA,32.344268,-93.061513,Bienville Parish,LA BIENVILLE,14353,22013,13,Bienville,,y,1,0
+Claiborne,Louisiana,LA,32.827585,-92.991125,Claiborne Parish,LA CLAIBORNE,17195,22027,27,Claiborne,,y,1,0
+St. Mary,Louisiana,LA,29.629349,-91.463804,St. Mary Parish,LA ST. MARY,54650,22101,101,St. Mary,,y,1,0
+Attala,Mississippi,MS,33.09047,-89.588622,Attala County,MS ATTALA,19564,28007,7,Attala,,y,1,0
+Clay,Mississippi,MS,33.661734,-88.783326,Clay County,MS CLAY,20634,28025,25,Clay,,y,1,0
+George,Mississippi,MS,30.855431,-88.642268,George County,MS GEORGE,22578,28039,39,George,,y,1,0
+Grenada,Mississippi,MS,33.770031,-89.80274,Grenada County,MS GRENADA,21906,28043,43,Grenada,,y,2,0
+Itawamba,Mississippi,MS,34.281075,-88.363127,Itawamba County,MS ITAWAMBA,23401,28057,57,Itawamba,,y,3,0
+Leake,Mississippi,MS,32.753268,-89.522568,Leake County,MS LEAKE,23805,28079,79,Leake,,y,1,0
+Lincoln,Mississippi,MS,31.535216,-90.453566,Lincoln County,MS LINCOLN,34869,28085,85,Lincoln,,y,4,0
+Lowndes,Mississippi,MS,33.471424,-88.439723,Lowndes County,MS LOWNDES,59779,28087,87,Lowndes,,y,4,0
+Panola,Mississippi,MS,34.365205,-89.963065,Panola County,MS PANOLA,34707,28107,107,Panola,,y,2,0
+Simpson,Mississippi,MS,31.902503,-89.917707,Simpson County,MS SIMPSON,27503,28127,127,Simpson,,y,1,0
+Tunica,Mississippi,MS,34.652201,-90.37177,Tunica County,MS TUNICA,10778,28143,143,Tunica,,y,2,0
+Union,Mississippi,MS,34.489101,-89.0023,Union County,MS UNION,27134,28145,145,Union,,y,1,0
+Washington,Mississippi,MS,33.273131,-90.94443,Washington County,MS WASHINGTON,51137,28151,151,Washington,,y,3,0
+Ravalli,Montana,MT,46.079298,-114.119065,Ravalli County,MT RAVALLI,40212,30081,81,Ravalli,,y,1,0
+Cleveland,North Carolina,NC,35.33463,-81.557114,Cleveland County,NC CLEVELAND,98078,37045,45,Cleveland,,y,1,0
+Catawba,North Carolina,NC,35.663182,-81.214151,Catawba County,NC CATAWBA,154358,37035,35,Catawba,,y,1,0
+Franklin,Vermont,VT,44.858964,-72.909402,Franklin County,VT FRANKLIN,47746,50011,11,Franklin,,y,2,0
+Windham,Vermont,VT,42.999143,-72.716335,Windham County,VT WINDHAM,44513,50025,25,Windham,,y,5,0
+Albemarle,Virginia,VA,38.024184,-78.553506,Albemarle County,VA ALBEMARLE,98970,51003,3,Albemarle,,y,2,0
+Botetourt,Virginia,VA,37.553193,-79.805318,Botetourt County,VA BOTETOURT,33148,51023,23,Botetourt,,y,1,0
+Franklin,Virginia,VA,36.99235,-79.883959,Franklin County,VA FRANKLIN,56159,51067,67,Franklin,,y,1,0
+Isle of Wight,Virginia,VA,36.901418,-76.707569,Isle of Wight County,VA ISLE OF WIGHT,35270,51093,93,Isle of Wight,,y,1,0
+Mecklenburg,Virginia,VA,36.687256,-78.368959,Mecklenburg County,VA MECKLENBURG,32727,51117,117,Mecklenburg,,y,1,0
+Suffolk city,Virginia,VA,36.697157,-76.634781,Suffolk city,VA SUFFOLK CITY,84585,51800,800,Suffolk city,,y,1,0
+Siskiyou,California,CA,41.587986,-122.533287,Siskiyou County,CA SISKIYOU,44900,06093,93,Siskiyou,,y,2,0
+Carbon,Wyoming,WY,41.70359,-106.933153,Carbon County,WY CARBON,15885,56007,7,Carbon,,y,1,0
+Monroe,Indiana,IN,39.160751,-86.523325,Monroe County,IN MONROE,137974,18105,105,Monroe,,y,1,0
+Morgan,Indiana,IN,39.482646,-86.447457,Morgan County,IN MORGAN,68894,18109,109,Morgan,,y,1,0
+Putnam,Indiana,IN,39.665544,-86.853325,Putnam County,IN PUTNAM,37963,18133,133,Putnam,,y,1,0
+Ripley,Indiana,IN,39.10023,-85.260541,Ripley County,IN RIPLEY,28818,18137,137,Ripley,,y,1,0
+Scott,Indiana,IN,38.679431,-85.751898,Scott County,IN SCOTT,24181,18143,143,Scott,,y,2,1
+Tipton,Indiana,IN,40.310229,-86.056207,Tipton County,IN TIPTON,15936,18159,159,Tipton,,y,1,0
+Lee,North Carolina,NC,35.476075,-79.17222,Lee County,NC LEE,57866,37105,105,Lee,,y,1,0
+Davie,North Carolina,NC,35.929356,-80.542542,Davie County,NC DAVIE,41240,37059,59,Davie,,y,1,0
+Henderson,North Carolina,NC,35.336424,-82.479634,Henderson County,NC HENDERSON,106740,37089,89,Henderson,,y,1,0
+Cherokee,North Carolina,NC,35.136233,-84.061308,Cherokee County,NC CHEROKEE,27444,37039,39,Cherokee,,y,4,0
+Granville,North Carolina,NC,36.299884,-78.657634,Granville County,NC GRANVILLE,59916,37077,77,Granville,,y,1,0
+Robeson,North Carolina,NC,34.63921,-79.100881,Robeson County,NC ROBESON,134168,37155,155,Robeson,,y,1,0
+Scotland,North Carolina,NC,34.840023,-79.477337,Scotland County,NC SCOTLAND,36157,37165,165,Scotland,,y,1,0
+Cumberland,North Carolina,NC,35.050192,-78.828719,Cumberland County,NC CUMBERLAND,319431,37051,51,Cumberland,,y,2,0
+Cecil,Maryland,MD,39.562352,-75.941584,Cecil County,MD CECIL,101108,24015,15,Cecil,,y,1,0
+Acadia,Louisiana,LA,30.291497,-92.411037,Acadia Parish,LA ACADIA,61773,22001,1,Acadia,,y,1,0
+St. Mary's,Maryland,MD,38.222666,-76.534271,St. Mary's County,MD ST. MARY'S,105151,24037,37,St. Mary's,,y,1,0
+Union,North Carolina,NC,34.991501,-80.530131,Union County,NC UNION,201292,37179,179,Union,,y,9,0
+Chickasaw,Mississippi,MS,33.921654,-88.945808,Chickasaw County,MS CHICKASAW,17392,28017,17,Chickasaw,,y,1,0
+Montgomery,Mississippi,MS,33.500714,-89.639625,Montgomery County,MS MONTGOMERY,10925,28097,97,Montgomery,,y,1,0
+Oktibbeha,Mississippi,MS,33.422313,-88.876151,Oktibbeha County,MS OKTIBBEHA,47671,28105,105,Oktibbeha,,y,2,0
+Pontotoc,Mississippi,MS,34.227081,-89.037239,Pontotoc County,MS PONTOTOC,29957,28115,115,Pontotoc,,y,1,0
+Sunflower,Mississippi,MS,33.605529,-90.59509,Sunflower County,MS SUNFLOWER,29450,28133,133,Sunflower,,y,2,0
+Tate,Mississippi,MS,34.649553,-89.943105,Tate County,MS TATE,28886,28137,137,Tate,,y,1,0
+Webster,Mississippi,MS,33.612048,-89.283836,Webster County,MS WEBSTER,10253,28155,155,Webster,,y,1,0
+Unknown,Florida,FL,,,,,,,,Unknown,,y,1,0
+Columbia,Florida,FL,30.221305,-82.623127,Columbia County,FL COLUMBIA,67531,12023,23,Columbia,,y,2,0
+Cortland,New York,NY,42.593824,-76.076265,Cortland County,NY CORTLAND,49336,36023,23,Cortland,,y,1,0
+St. Lawrence,New York,NY,44.488112,-75.074311,St. Lawrence County,NY ST. LAWRENCE,111944,36089,89,St. Lawrence,,y,1,0
+Madison,New York,NY,42.910026,-75.663575,Madison County,NY MADISON,73442,36053,53,Madison,,y,1,0
+Le Sueur,Minnesota,MN,44.373397,-93.73018,Le Sueur County,MN LE SUEUR,27703,27079,79,Le Sueur,,y,1,0
+Rockingham,Virginia,VA,38.511257,-78.876307,Rockingham County,VA ROCKINGHAM,76314,51165,165,Rockingham,,y,2,0
+Amherst,Virginia,VA,37.630362,-79.147848,Amherst County,VA AMHERST,32353,51009,9,Amherst,,y,1,0
+Bedford,Virginia,VA,37.312408,-79.527947,Bedford County,VA BEDFORD,68676,51019,19,Bedford,,y,1,0
+Lee,Virginia,VA,36.702162,-83.130334,Lee County,VA LEE,25587,51105,105,Lee,,y,2,0
+Culpeper,Virginia,VA,38.48593,-77.956476,Culpeper County,VA CULPEPER,46689,51047,47,Culpeper,,y,2,0
+Fluvanna,Virginia,VA,37.830606,-78.284445,Fluvanna County,VA FLUVANNA,25691,51065,65,Fluvanna,,y,1,0
+Louisa,Virginia,VA,37.971681,-77.959178,Louisa County,VA LOUISA,33153,51109,109,Louisa,,y,1,0
+Muskogee,Oklahoma,OK,35.617551,-95.383911,Muskogee County,OK MUSKOGEE,70990,40101,101,Muskogee,,y,1,0
+Noble,Oklahoma,OK,36.384901,-97.236335,Noble County,OK NOBLE,11561,40103,103,Noble,,y,1,0
+Cerro Gordo,Iowa,IA,43.075171,-93.251266,Cerro Gordo County,IA CERRO GORDO,44151,19033,33,Cerro Gordo,,y,2,0
+Kossuth,Iowa,IA,43.212478,-94.213983,Kossuth County,IA KOSSUTH,15543,19109,109,Kossuth,,y,1,0
+Poweshiek,Iowa,IA,41.684526,-92.522882,Poweshiek County,IA POWESHIEK,18914,19157,157,Poweshiek,,y,1,0
+Scott,Iowa,IA,41.641679,-90.62229,Scott County,IA SCOTT,165224,19163,163,Scott,,y,1,0
+Sioux,Iowa,IA,43.082854,-96.177929,Sioux County,IA SIOUX,33704,19167,167,Sioux,,y,1,0
+Tama,Iowa,IA,42.074848,-92.529411,Tama County,IA TAMA,17767,19171,171,Tama,,y,3,0
+Woodbury,Iowa,IA,42.39322,-96.053296,Woodbury County,IA WOODBURY,102172,19193,193,Woodbury,,y,1,0
+Nash,North Carolina,NC,35.965945,-77.987555,Nash County,NC NASH,95840,37127,127,Nash,,y,1,0
+Brown,South Dakota,SD,45.589254,-98.352175,Brown County,SD BROWN,36531,46013,13,Brown,,y,1,0
+Columbia,Pennsylvania,PA,41.045517,-76.40426,Columbia County,PA COLUMBIA,67295,42037,37,Columbia,,y,1,0
+Dauphin,Pennsylvania,PA,40.412565,-76.792634,Dauphin County,PA DAUPHIN,268100,42043,43,Dauphin,,y,1,0
+Mercer,Pennsylvania,PA,41.300014,-80.252786,Mercer County,PA MERCER,116638,42085,85,Mercer,,y,1,0
+Schuylkill,Pennsylvania,PA,40.70369,-76.2178,Schuylkill County,PA SCHUYLKILL,148289,42107,107,Schuylkill,,y,1,0
+Fayette,Pennsylvania,PA,39.914115,-79.644586,Fayette County,PA FAYETTE,136606,42051,51,Fayette,,y,1,0
+Allegan,Michigan,MI,42.595787,-86.634745,Allegan County,MI ALLEGAN,111408,26005,5,Allegan,,y,1,0
+Butts,Georgia,GA,33.290355,-83.958221,Butts County,GA BUTTS,23655,13035,35,Butts,,y,1,0
+Chattooga,Georgia,GA,34.474178,-85.345289,Chattooga County,GA CHATTOOGA,26015,13055,55,Chattooga,,y,1,0
+Twiggs,Georgia,GA,32.665847,-83.425879,Twiggs County,GA TWIGGS,9023,13289,289,Twiggs,,y,1,0
+Portage,Ohio,OH,41.16864,-81.196932,Portage County,OH PORTAGE,161419,39133,133,Portage,,y,1,0
+Upshur,Texas,TX,32.735878,-94.941649,Upshur County,TX UPSHUR,39309,48459,459,Upshur,,y,1,0
+Cass,Texas,TX,33.083698,-94.357579,Cass County,TX CASS,30464,48067,67,Cass,,y,1,0
+Cascade,Montana,MT,47.316443,-111.350571,Cascade County,MT CASCADE,81327,30013,13,Cascade,,y,3,0
+Emmet,Michigan,MI,45.590094,-84.986822,Emmet County,MI EMMET,32694,26047,47,Emmet,,y,1,0
+Gladwin,Michigan,MI,43.98975,-84.389816,Gladwin County,MI GLADWIN,25692,26051,51,Gladwin,,y,1,0
+Grand Traverse,Michigan,MI,44.718688,-85.553848,Grand Traverse County,MI GRAND TRAVERSE,86986,26055,55,Grand Traverse,,y,1,0
+Roscommon,Michigan,MI,44.339517,-84.611271,Roscommon County,MI ROSCOMMON,24449,26143,143,Roscommon,,y,1,0
+Carroll,Ohio,OH,40.579884,-81.090787,Carroll County,OH CARROLL,28836,39019,19,Carroll,,y,1,0
+Clinton,Ohio,OH,39.414041,-83.814542,Clinton County,OH CLINTON,42040,39027,27,Clinton,,y,1,0
+Gallia,Ohio,OH,38.817046,-82.301746,Gallia County,OH GALLIA,30934,39053,53,Gallia,,y,1,0
+Greene,Ohio,OH,39.687479,-83.894894,Greene County,OH GREENE,161573,39057,57,Greene,,y,1,0
+Hancock,Ohio,OH,41.000471,-83.666034,Hancock County,OH HANCOCK,74782,39063,63,Hancock,,y,1,0
+Wood,Ohio,OH,41.360183,-83.622682,Wood County,OH WOOD,125488,39173,173,Wood,,y,1,0
+Salem,New Jersey,NJ,39.573828,-75.357356,Salem County,NJ SALEM,66083,34033,33,Salem,,y,1,0
+Whitman,Washington,WA,46.903322,-117.522962,Whitman County,WA WHITMAN,44776,53075,75,Whitman,,y,1,0
+Chester,Tennessee,TN,35.416639,-88.605505,Chester County,TN CHESTER,17131,47023,23,Chester,,y,1,0
+Franklin,Tennessee,TN,35.155926,-86.099203,Franklin County,TN FRANKLIN,41052,47051,51,Franklin,,y,1,0
+Gibson,Tennessee,TN,35.991694,-88.933776,Gibson County,TN GIBSON,49683,47053,53,Gibson,,y,1,0
+Houston,Tennessee,TN,36.285777,-87.705605,Houston County,TN HOUSTON,8426,47083,83,Houston,,y,1,0
+Loudon,Tennessee,TN,35.73745,-84.316204,Loudon County,TN LOUDON,48556,47105,105,Loudon,,y,1,0
+Marion,Tennessee,TN,35.133422,-85.618399,Marion County,TN MARION,28237,47115,115,Marion,,y,1,0
+McMinn,Tennessee,TN,35.424471,-84.619962,McMinn County,TN MCMINN,52266,47107,107,McMinn,,y,1,0
+Perry,Tennessee,TN,35.659785,-87.877027,Perry County,TN PERRY,7915,47135,135,Perry,,y,1,0
+Hampton,South Carolina,SC,32.778323,-81.143362,Hampton County,SC HAMPTON,21090,45049,49,Hampton,,y,1,0
+Livingston,Illinois,IL,40.894376,-88.552852,Livingston County,IL LIVINGSTON,38950,17105,105,Livingston,,y,1,0
+Rock Island,Illinois,IL,41.468404,-90.572203,Rock Island County,IL ROCK ISLAND,147546,17161,161,Rock Island,,y,1,0
+Jo Daviess,Illinois,IL,42.362391,-90.21147,Jo Daviess County,IL JO DAVIESS,22678,17085,85,Jo Daviess,,y,1,0
+Stephenson,Illinois,IL,42.349726,-89.665994,Stephenson County,IL STEPHENSON,47711,17177,177,Stephenson,,y,1,0
+Bastrop,Texas,TX,30.103128,-97.311859,Bastrop County,TX BASTROP,74171,48021,21,Bastrop,,y,1,0
+Reno,Kansas,KS,37.948185,-98.078346,Reno County,KS RENO,64511,20155,155,Reno,,y,2,0
+Jackson,Kansas,KS,39.410989,-95.794509,Jackson County,KS JACKSON,13462,20085,85,Jackson,,y,1,0
+Mitchell,Kansas,KS,39.393026,-98.207362,Mitchell County,KS MITCHELL,6373,20123,123,Mitchell,,y,1,0
+Dukes,Massachusetts,MA,41.380939,-70.701536,Dukes County,MA DUKES,16535,25007,7,Dukes,,y,1,0
+San Juan,New Mexico,NM,36.511624,-108.324578,San Juan County,NM SAN JUAN,130044,35045,45,San Juan,,y,1,0
+Sullivan,New Hampshire,NH,43.361188,-72.222084,Sullivan County,NH SULLIVAN,43742,33019,19,Sullivan,,y,1,0
+Unknown,Colorado,CO,,,,,,,,Unknown,,y,1,0
+Dawson,Nebraska,NE,40.867378,-99.815154,Dawson County,NE DAWSON,24326,31047,47,Dawson,,y,1,0
+Amador,California,CA,38.44355,-120.653856,Amador County,CA AMADOR,38091,06005,5,Amador,,y,1,0
+Bradford,Florida,FL,29.946934,-82.166796,Bradford County,FL BRADFORD,28520,12007,7,Bradford,,y,1,0
+DeSoto,Florida,FL,27.190581,-81.806253,DeSoto County,FL DESOTO,34862,12027,27,DeSoto,,y,1,0
+Flagler,Florida,FL,29.474894,-81.286362,Flagler County,FL FLAGLER,95696,12035,35,Flagler,,y,1,0
