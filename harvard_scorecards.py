@@ -19,7 +19,7 @@ HARVARD_SCORECARD_REPLACE = {
 TIME_SCALES = ['6mo', '12mo', '18mo']
 
 def load_harvard_scenarios(scorecards_dir: str,
-                          state_code: str = 'MA'):
+                           state_code: str = 'MA'):
     """Loads scenarios from Harvard Global Health scenario scorecards.
 
     Expected filenames: hrr_scorecard_<percent of population>.csv
