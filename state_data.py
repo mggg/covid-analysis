@@ -15,12 +15,12 @@ NATIONAL_DATASETS = {
 MA_DATASETS = {
     'acute_care': 'MA_Hospitals/Originals/acute_care_hospitals/HOSPITALS_PT.shp',
     'non_acute_care': 'MA_Hospitals/Originals/non_acute_care_hospitals/HOSPITALS_NONACUTE_PT.shp',
-    'ed_inst': 'Universities/SHP_dormcap/ma_universities.shp'
+    'ed_inst': 'MA_Universities/SHP_dormcap/ma_universities.shp'
 }
 
 TRAVEL_TIME_DATASETS = {
-    'MI': 'travel_times/MI_pairwise_distances_with_names.csv',
-    'NY': 'travel_times/NY_pairwise_distances_with_names.csv'
+    state: f'travel_times/{state}_pairwise_distances_with_names.csv'
+    for state in ('CA', 'MI', 'NY')
 }
 
 # USA Contiguous Albers Equal Area Conic
