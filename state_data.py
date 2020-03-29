@@ -117,7 +117,11 @@ def load_hospitals(state_code: str,
                                       (hospitals_gdf['TOWN'] != 'Nantucket')]
         # Filter out psychiatric hospitals.
         # (Other non-acute hospitals may be retained.)
-        hospitals_gdf = hospitals_gdf[hospitals_gdf['COHORT'] != 'Psychiatric Hospital']
+        # Moon: Filter out Lawrence Memorial.
+        hospitals_gdf = hospitals_gdf[
+            (hospitals_gdf['COHORT'] != 'Psychiatric Hospital') &
+            (hospitals_gdf['NAME'] != 'Lawrence Memorial Hospital of Medford')
+        ]
         # Hospital systems should be a category. (TODO: other fields here)
         hospitals_gdf['HOSPSYSTEM'] = hospitals_gdf['HOSPSYSTEM'].astype('category')
     else:
