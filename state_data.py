@@ -65,7 +65,7 @@ def load_state_data(state_code: str,
 
     # Get pairwise distances.
     if prefer_travel_time and state_code in TRAVEL_TIME_DATASETS:
-        distance_metric = 'travel time (minutes)'
+        distance_metric = 'travel_time'
         travel_time_df = pd.read_csv(path(TRAVEL_TIME_DATASETS[state_code]))
         travel_time_df = travel_time_df.rename(columns={
             **{col: col.strip() for col in travel_time_df.columns},
@@ -118,6 +118,8 @@ def load_hospitals(state_code: str,
         # Filter out psychiatric hospitals.
         # (Other non-acute hospitals may be retained.)
         hospitals_gdf = hospitals_gdf[hospitals_gdf['COHORT'] != 'Psychiatric Hospital']
+        # Hospital systems should be a category. (TODO: other fields here)
+        hospitals_gdf['HOSPSYSTEM'] = hospitals_gdf['HOSPSYSTEM'].astype('category')
     else:
         all_hospitals_gdf = gpd.read_file(path(NATIONAL_DATASETS['hospitals']))
         hospitals_gdf = all_hospitals_gdf[all_hospitals_gdf['STATE'] == state_code]

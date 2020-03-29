@@ -22,6 +22,7 @@ def run_gurobi_model(distances: np.ndarray,
                      min_ed_inst_beds: int = 0,
                      max_ed_inst_per_hosp: int = 1,
                      max_hosp_per_ed_inst: int = 2,
+                     hosp_systems: np.ndarray = None,
                      verbose: bool = True,
                      *args, **kwargs) -> Dict:
     """Runs the Gurobi-based model for university-hospital assignment.
@@ -52,6 +53,7 @@ def run_gurobi_model(distances: np.ndarray,
         to each hospital.
     :param max_ed_inst_per_hosp: The maximum number of hospitals assigned
         to each universtity.
+    :param hosp_systems: Coded hospital systems.
     :param verbose: Determines whether to print solver output.
     :return: A dictionary of assignment matrices.
     """
@@ -103,6 +105,13 @@ def run_gurobi_model(distances: np.ndarray,
         m.addConstr(sum(open_beds[i, j] for j in range(n_ed)) == max_ed_inst_per_hosp)
     for j in range(n_ed):
         m.addConstr(sum(open_beds[i, j] for i in range(n_hosp)) <= max_hosp_per_ed_inst)
+        
+    if hosp_systems is not None:
+        for outer in range(n_hosp):
+            for inner in range(outer + 1, n_hosp):
+                if hosp_systems[inner] != hosp_systems[outer]:
+                    for i in range(n_ed):
+                        m.addConstr(open_beds[outer, i] + open_beds[inner, i] <= 1)
 
     m.optimize()
 
