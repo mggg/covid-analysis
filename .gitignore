@@ -147,3 +147,5 @@ static
 *.swp
 
 .vscode
+
+results
