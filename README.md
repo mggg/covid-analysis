@@ -1,6 +1,6 @@
 # Hospital-university bed assignment
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mggg/covid-analysis/blob/master/University-hospital%20bed%20assignment.ipynb)
 
 This repository contains code and data for the [Metric Geometry and Gerrymandering Group's](https://mggg.org/) [Campus Coronavirus Response](https://mggg.org/covid-flows/index.html) project.
 
