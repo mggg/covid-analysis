@@ -18,6 +18,13 @@ MA_DATASETS = {
     'ed_inst': 'MA_Universities/SHP_dormcap/ma_universities.shp'
 }
 
+# Special cases to handle in MA (not necessarily completely filtered out)
+MA_IRREGULAR_COLLEGES = [
+    'Northeastern University',
+    'Boston College',
+    'University of Massachusetts Dartmouth Center for Innovation and Entrepreneurship'
+] 
+
 TRAVEL_TIME_DATASETS = {
     state: f'travel_times/{state}_pairwise_distances_with_names.csv'
     for state in ('CA', 'MI', 'NY')
@@ -33,7 +40,6 @@ def path(dataset):
         'data',
         dataset
     )
-
 
 def load_state_data(state_code: str,
                     min_dorm_beds: int = 1,
@@ -120,7 +126,8 @@ def load_hospitals(state_code: str,
         # Moon: Filter out Lawrence Memorial.
         hospitals_gdf = hospitals_gdf[
             (hospitals_gdf['COHORT'] != 'Psychiatric Hospital') &
-            (hospitals_gdf['NAME'] != 'Lawrence Memorial Hospital of Medford')
+            (hospitals_gdf['NAME'] != 'Corrigan Mental Health Center') &
+            (hospitals_gdf['NAME'] != 'Lawrence Memorial Hospital of Medford') 
         ]
         # Hospital systems should be a category. (TODO: other fields here)
         hospitals_gdf['HOSPSYSTEM'] = hospitals_gdf['HOSPSYSTEM'].astype('category')
@@ -144,10 +151,13 @@ def load_ed_inst(state_code: str, min_dorm_beds: int) -> gpd.GeoDataFrame:
     if state_code == 'MA':
         # MA: Use state-specific hospital/university datasets.
         ed_inst_gdf = gpd.read_file(path(MA_DATASETS['ed_inst']))
-        # Fix irregularities in NEU data and remove satellite BC campuses.
-        ed_inst_gdf = ed_inst_gdf[((ed_inst_gdf['COLLEGE'] != 'Northeastern University') &
-                                  (ed_inst_gdf['COLLEGE'] != 'Boston College')) |
+        # Fix irregularities in NEU data and remove satellite BC/UMD campuses.
+        ed_inst_gdf = ed_inst_gdf[~ed_inst_gdf['COLLEGE'].isin(MA_IRREGULAR_COLLEGES) |
                                   (ed_inst_gdf['CAMPUS'] == 'Main Campus')]
+        # HMS name cleanup to make maps more interpretable
+        ed_inst_gdf['COLLEGE'] = ed_inst_gdf['COLLEGE'].replace({
+            'Harvard University': 'Harvard Medical School'
+        })
         ed_inst_gdf = ed_inst_gdf.rename(columns={'DORMCAP': 'DORM_CAP'})
     else:
         # Non-MA: Use national hospital/university datasets.
