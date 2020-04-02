@@ -11,4 +11,5 @@ This project uses GeoPandas for geospatial data processing, as well as CVXPY and
 ## Contributors
 This project is a team effort of the MGGG Redistricting Lab with critical collaboration from [Parker Rule](https://github.com/pjrule), [Olivia Walch](http://oliviawalch.com/), and [Austin Buchanan](https://sites.google.com/site/austinlbuchanan/).
 
-
+## License
+This code is available under the MIT License.
