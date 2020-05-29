@@ -18,11 +18,11 @@ def load_clinic_data(systems=None) -> gpd.GeoDataFrame:
         specified systems.
     """
     if systems is None:
-        return gpd.GeoDataFrame(path(CLINIC_DATASETS['partners']))
+        return gpd.read_file(path(CLINIC_DATASETS['partners']))
     gdfs = []
     for system in systems:
         if system.lower() in CLINIC_DATASETS:
-            gdfs.append(gpd.GeoDataFrame(path(CLINIC_DATASETS[system.lower()])))
+            gdfs.append(gpd.read_file(path(CLINIC_DATASETS[system.lower()])))
         else:
             print(f'Warning: system {system} not found. Skipping...')
     if gdfs:

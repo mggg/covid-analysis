@@ -1,6 +1,6 @@
 import papermill as pm
 
-datestamp = '20200329'
+datestamp = '20200331'
 
 ma_runs = [
     {
@@ -16,7 +16,7 @@ other_runs = [
         'ed_inst_max_utilization_pct': 0.4
     } for code in ('NY', 'MI')
 ]
-runs = ma_runs + other_runs
+runs = ma_runs
 
 if __name__ == '__main__':
     for run in runs:

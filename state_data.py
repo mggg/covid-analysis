@@ -30,6 +30,11 @@ TRAVEL_TIME_DATASETS = {
 }
 
 
+def load_states():
+    """Loads a shapefile of state boundaries."""
+    return gpd.read_file(path(NATIONAL_DATASETS['states']))
+
+
 def load_state_data(state_code: str,
                     min_dorm_beds: int = 1,
                     min_hosp_beds: int = 1,
@@ -40,7 +45,7 @@ def load_state_data(state_code: str,
     :param state_code: The state's two-letter postal code.
     :param min_dorm_beds: The minimum number of dorm beds necessary for an
         educational institution's inclusion. At a minimum, institutions
-        with zero dorm beds (pure commuter schools) should be filtered out.
+        with zero dorm beds (pure commuter schools) should be filtered out.f
     :param min_hosp_beds: The minimum number of dorm beds necessary for an
         hospital's inclusion. At a minimum, hospitals with zero
         or negative beds should be filtered out.
@@ -51,7 +56,7 @@ def load_state_data(state_code: str,
     :return: A dictionary of datasets and pairwise distances.
     """
     state_code = state_code.upper()
-    states_gdf = gpd.read_file(path(NATIONAL_DATASETS['states']))
+    states_gdf = load_states()
     outline_gdf = states_gdf[states_gdf['STUSPS'] == state_code]
     outline_gdf = outline_gdf.to_crs(PROJ).reset_index().copy()
 

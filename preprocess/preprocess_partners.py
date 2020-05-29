@@ -29,21 +29,6 @@ def main(clinics_xlsx, output_shp):
             'city': getattr(row, 'city'),
             'address': getattr(row, 'address')
         }, ['US'])
-        if loc is None:
-            # A few facilities in the 2020-05-27 version of the
-            # spreadsheets have incorrect state columns.
-            # It's worth retrying without a state specified.
-            print('State seems incorrect!')
-            print(row)
-            loc = geocode({
-                'city': getattr(row, 'city'),
-                'address': getattr(row, 'address')
-            }, ['US'])
-            if loc is not None:
-                state = loc[0].split(', ')[-2]
-                print('Replacing', getattr(row, 'state'), 'with', state,
-                      f'in row {idx}')
-                df.loc[idx, 'state'] = state
         if loc is not None:
             geometries.append(Point(loc[1][1], loc[1][0]))
         else:
