@@ -3,12 +3,12 @@
 This repository contains code and data for the [Metric Geometry and Gerrymandering Group's](https://mggg.org/) [Campus Coronavirus Response](https://mggg.org/covid-flows/index.html) project.
 
 
-## Hospital-university bed assignment
+## University-hospital bed assignment
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mggg/covid-analysis/blob/master/University-hospital%20bed%20assignment.ipynb)
 
-The `University-hospital bed assignment.ipynb` notebook is the basis of our [hospital-university bed assignment](https://github.com/mggg/covid-flows) model.
+The `University-hospital bed assignment.ipynb` notebook is the basis of our [university-hospital bed assignment](https://mggg.org/covid-flows) model.
 
-## Clinic-university testing assignment
+## University-clinic testing assignment
 Forthcoming!
 
 
