@@ -5,6 +5,7 @@ This repository contains code and data for the [Metric Geometry and Gerrymanderi
 
 ## Hospital-university bed assignment
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mggg/covid-analysis/blob/master/University-hospital%20bed%20assignment.ipynb)
+
 The `University-hospital bed assignment.ipynb` notebook is the basis of our [hospital-university bed assignment](https://github.com/mggg/covid-flows) model.
 
 ## Clinic-university testing assignment
