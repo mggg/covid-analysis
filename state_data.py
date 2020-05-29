@@ -1,10 +1,9 @@
 """Helper functions for loading state-level datasets."""
-import os
-import pathlib
 import numpy as np
 import pandas as pd
 import geopandas as gpd
 from typing import Dict
+from config import PROJ, path
 
 NATIONAL_DATASETS = {
     'states': 'cb_2018_us_state_500k/cb_2018_us_state_500k.shp',
@@ -23,23 +22,13 @@ MA_IRREGULAR_COLLEGES = [
     'Northeastern University',
     'Boston College',
     'University of Massachusetts Dartmouth Center for Innovation and Entrepreneurship'
-] 
+]
 
 TRAVEL_TIME_DATASETS = {
     state: f'travel_times/{state}_pairwise_distances_with_names.csv'
     for state in ('CA', 'MI', 'NY')
 }
 
-# USA Contiguous Albers Equal Area Conic
-PROJ = 'esri:102003'
-
-def path(dataset):
-    """Gets the full absolute path of a dataset."""
-    return os.path.join(
-        pathlib.Path(__file__).parent.absolute(),
-        'data',
-        dataset
-    )
 
 def load_state_data(state_code: str,
                     min_dorm_beds: int = 1,
